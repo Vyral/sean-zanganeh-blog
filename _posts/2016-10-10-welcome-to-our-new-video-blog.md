@@ -19,7 +19,7 @@ youtube_code: XN7YPkiNx2E
 
 {% include youtube.html %}
 
-<div style="text-align: center">*Exciting news: I’ll be sharing my real estate expertise with you through my new video blog!*</div>
+<div style="text-align: center"><i>Exciting news: I’ll be sharing my real estate expertise with you through my new video blog!</i></div>
 
 &nbsp;
 
