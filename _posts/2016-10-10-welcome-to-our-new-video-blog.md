@@ -12,7 +12,7 @@ pullquote: We’d love to answer your specific questions about the real estate m
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/sean-zanganeh-sept-1-screen-shot-no-play.jpg
 youtube_code: XN7YPkiNx2E
 ---
 
@@ -23,7 +23,9 @@ youtube_code: XN7YPkiNx2E
 
 <div style="text-align: center">&nbsp;</div>
 
-<div style="text-align: center"><p>Want to sell your home? <a href="http://freevaluation.boldleads.com"><strong>Get a complimentary home value report</strong></a></p><p>Want to buy a home? <strong><a href="http://mysddreamhome.com/property-search">Search all homes for sale</a></strong></p></div>
+<div style="text-align: center">Want to sell your home? <a href="http://freevaluation.boldleads.com"><strong>Get a complimentary home value report</strong></a></div>
+
+<div style="text-align: center"><p>Want to buy a home?&nbsp;<a href="http://mysddreamhome.com/property-search"><strong>Search all homes for sale​</strong></a><a href="http://freevaluation.boldleads.com"><strong></strong></a></p></div>
 
 I’ve got some exciting news to report to you all today.
 <br>
