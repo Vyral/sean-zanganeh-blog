@@ -19,6 +19,8 @@ youtube_code: XN7YPkiNx2E
 
 {% include youtube.html %}
 
+*Exciting news: I’ll be sharing my real estate expertise with you through my new video blog!*
+
 I’ve got some exciting news to report to you all today.
 <br>&nbsp;
 <br>**We’ll be sharing our real estate expertise with you through our new video blog.** We’re extremely excited about this and we want to be sure to include all of you. Here’s how it will work:
