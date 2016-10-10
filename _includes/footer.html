@@ -6,7 +6,7 @@
 	        <div class="col-sm-6">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
 						{% if site.data.settings.client.license_number != null %}
-						<br><span>{{site.data.settings.client.license_number }}
+						<br><span>#{{site.data.settings.client.license_number }}
 							{% endif %}
 	        </div>
 	        <div class="col-sm-6">
@@ -29,7 +29,7 @@
 	        <div class="col-sm-4">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
 						{% if site.data.settings.client.license_number != null %}
-						<br><span>{{site.data.settings.client.license_number }}
+						<br><span>#{{site.data.settings.client.license_number }}
 							{% endif %}
 	        </div>
 	        <div class="col-sm-4">
@@ -42,7 +42,7 @@
 	        <div class="col-sm-3">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
 						{% if site.data.settings.client.license_number != null %}
-						<br><span>{{site.data.settings.client.license_number }}
+						<br><span>#{{site.data.settings.client.license_number }}
 							{% endif %}
 	        </div>
 	        <div class="col-sm-3">
@@ -70,7 +70,11 @@
 	    </div>
 	  </div>
 	  <div class="attribution">
+			{% if site.data.settings.client.brand != null %}
 	    <p>&copy;{{ site.time | date: '%Y' }} {{site.data.settings.client.brand}}</p>
+			{% else %}
+			<p>&copy;{{ site.time | date: '%Y' }} {{site.data.settings.client.name}}</p>
+			{% endif %}
 	    Proudly Brought To You By
 	    <a href="http://getvyral.com" target="_blank">
 				Vyral Marketing</a><br>
