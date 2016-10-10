@@ -5,6 +5,9 @@
 	      {% if site.data.settings.client.brand == null and site.data.settings.client.brokerage == null %}
 	        <div class="col-sm-6">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
+						{% if site.data.settings.client.license_number != null %}
+						<br><span>{{site.data.settings.client.license_number }}
+							{% endif %}
 	        </div>
 	        <div class="col-sm-6">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
