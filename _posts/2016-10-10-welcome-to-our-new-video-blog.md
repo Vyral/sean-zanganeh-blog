@@ -19,15 +19,13 @@ youtube_code: XN7YPkiNx2E
 
 {% include youtube.html %}
 
-*Exciting news: I’ll be sharing my real estate**expertise**with you through my new video blog!*
+<p style="text-align:center">*Exciting news: I’ll be sharing my real estate**expertise**with you through my new video blog!*</p><br/>
 
-<center>&nbsp;</center>
 
 Want to sell your home? [**Get a complimentary home value report**](http://freevaluation.boldleads.com )
 
 Want to buy a home? **[Search all homes for sale](http://mysddreamhome.com/property-search)**
 
-<center>&nbsp;</center>
 
 I’ve got some exciting news to report to you all today.
 <br>
