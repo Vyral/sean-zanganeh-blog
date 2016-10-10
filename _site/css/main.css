@@ -2397,6 +2397,8 @@ form select {
 .site-logo {
   max-width: 40rem; }
 
+.footer .attribution svg {
+  fill: #fff; }
 .footer .socials svg {
   fill: #fff; }
 .footer a {
