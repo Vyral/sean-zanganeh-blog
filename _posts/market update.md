@@ -1,30 +1,30 @@
 ---
 layout: post
-title: Welcome to Our New Video Blog
+title: How the Fall Market Impacts You
 tags:
   - Market Update
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: 'Exciting news: I’ll be sharing my real estate expertise with you through my new video blog!'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh+Youtube+Intro.mp4'
-pullquote: We’d love to answer your specific questions about the real estate market.
+excerpt: "We're seeing some interesting trends in the fall real estate market. What does this mean for you? What does it mean for our market moving forward?"
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh+Examining+Fall+Real+Estate+Market+Trends.mp4'
+pullquote: Smart real estate decisions are keeping our market moving forward.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/sean-zanganeh-sept-1-screen-shot-no-play.jpg
-youtube_code: XN7YPkiNx2E
+youtube_alternate_image:
+youtube_code: 0GjkivpB7bs
 ---
 
 
 {% include youtube.html %}
 
-I’ve got some exciting news to report to you all today.
-<br>
-<br>**We’ll be sharing our real estate expertise with you through our new video blog.** We’re extremely excited about this and we want to be sure to include all of you. Here’s how it will work:
-<br>
-<br>Each month, we’ll send out two emails addressing trends in our local real estate market. We’ll also be sharing real estate tips for San Diego, what’s going on in the market, and even what’s going on in your neighborhood.
-<br>&nbsp;{% include pullquote.html %}
-<br>Rather than simply guess what’s on your mind, though, we’d like to reach out and ask you all what kinds of questions you have. Are there any concepts you’re unclear about? Are you curious about the market in your particular area or neighborhood? Our goal is to build the best possible library about San Diego real estate and answer your specific questions in our videos so that other people with similar questions can benefit from them, too.
-<br>
-<br>Until next time, if you’ve got any questions about real estate that you’d like us to address, please don’t hesitate to call us or send us an email. We look forward to producing great content that will be helpful for your real estate journey!
+Let's take a look at the fall market and what we can expect for the rest of the year.
+
+I'm constantly asked if I think we're in a buyer's market or a seller's market, but I actually think it's a neutral market. What does that mean to you? If you're a buyer, you benefit from interest rates still being super low. **We're seeing buyers get great deals on properties**, and the opportunities for these deals will continue as we head into the winter months.&nbsp;
+
+What about sellers? **Inventory is still tight in our market, meaning there are not a lot of homes for sale**. Sellers are getting multiple offers on properties, and we see a lot of energy around listings. This means that there are definitely buyers out there for homes. With interest rates as low as they are, many buyers are taking action.
+
+It's going to be a wacky election year and a lot of things are going to change, but our local market shouldn't be affected much. We still have a lot of people who are looking to buy or sell, and a lot of people making smart real estate decisions are keeping our market moving forward.&nbsp;
+
+If you're thinking of buying or selling a home, give me a call or send me an email. I'd love to work with you
