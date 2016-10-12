@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How the Fall Market Impacts You
+title: How the Fall Market Impacts Your San Diego Home
 tags:
   - Market Update
   - Real Estate

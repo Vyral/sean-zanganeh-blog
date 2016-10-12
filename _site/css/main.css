@@ -2408,7 +2408,8 @@ form select {
   background: #112132; }
 
 .navbar-left li a {
-  color: #fff; }
+  color: #fff;
+  margin-top: 15px; }
 
 .navbar-right li .cta {
   background: #fff;
