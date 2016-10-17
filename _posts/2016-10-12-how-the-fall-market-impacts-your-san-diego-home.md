@@ -27,6 +27,6 @@ I'm constantly asked if I think we're in a buyer's market or a seller's market, 
 
 What about sellers? **Inventory is still tight in our market, meaning there are not a lot of homes for sale**. Sellers are getting multiple offers on properties, and we see a lot of energy around listings. This means that there are definitely buyers out there for homes. With interest rates as low as they are, many buyers are taking action.
 
-It's going to be a wacky election year and a lot of things are going to change, but our local market shouldn't be affected much. We still have a lot of people who are looking to buy or sell, and a lot of people making smart real estate decisions are keeping our market moving forward.
+It's going to be a wacky election year and a lot of things are going to change, but our local market shouldn't be affected much. We still have a lot of people who are looking to buy or sell, and smart real estate decisions are moving our market forward.
 
 If you're thinking of buying or selling a home, give me a call or send me an email. I'd love to work with you.
