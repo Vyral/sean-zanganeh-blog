@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/sean-zanganeh-sept-1-screen-shot-no-play.jpg
-youtube_code: 7lwy19TfJo
+youtube_code: j7lwy19TfJo
 ---
 
 
