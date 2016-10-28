@@ -113,6 +113,59 @@ $(document).ready(function() {
 	  $(".stop").click(function(){
 	    owl.trigger('owl.stop');
 	  })
+		//TESTIMONIAL SECTION
+		//toggle trancated testimonials to expand
+		$('.item-toggle').on('click', function(event){
+			 var $this = $(this)
+			//  console.log($this.parent('div#item-truncated').parent('div.item').children('div#item-expanded'));
+			 if($this.parent('div#item-expanded').parent('div.item').children('div#item-truncated').hasClass('item-hide')){
+				 $this.parent('div#item-expanded').parent('div.item').children('div#item-truncated').removeClass('item-hide');
+				 $this.parent('div#item-expanded').parent('div.item').children('div#item-expanded').addClass('item-hide');
+				 console.log($this.siblings('.testimonial').text().length);
+			 } else{
+				//  console.log($this.parent('div#item-truncated').parent('div.item').children('div#item-expanded'));
+				 $this.parent('div').parent('div.item').children('div#item-expanded').removeClass('item-hide');
+				 $this.parent('div#item-truncated').parent('div.item').children('div#item-truncated').addClass('item-hide');
+					console.log($this.siblings('.testimonial').text().length);
+			 }
+		});
 
+		//WELCOME BOX
+		//only does dropdown animation once per session
+		if(sessionStorage.getItem('popState') != 'shown'){
+		$('#welcome-box').addClass('add-welcome-box');
+					sessionStorage.setItem('popState','shown')
+		}
+		else{
+			$('#welcome-box').addClass('welcome-box-seen-before');
+		}
+		//hide welcome box the remainder of the session if the X is pressed
+		if(sessionStorage.getItem('exitState') == 'shown-exit'){
+			$('#welcome-box').addClass('hidden');
+			$('#hero').addClass('welcome-hidden-margin');
+		}
+
+		$('.welcome-exit').click(function(e){
+			$('#welcome-box').addClass('remove-welcome-box');
+			$('#welcome-box').removeClass('add-welcome-box');
+			sessionStorage.setItem('exitState','shown-exit')
+			$('#welcome-box').delay(400).slideUp()
+			$('#hero').delay(400).addClass('welcome-hidden-margin');
+		});
+
+		//if subscribed, remove welcome box from page, forever'
+		if(localStorage.getItem('exitFull') == 'true'){
+			$('#welcome-box').addClass('hidden');
+			$('#hero').addClass('welcome-hidden-margin');
+		}
+
+		$("#welcome-box-form").submit(function(event) {
+			$('#welcome-box').addClass('remove-welcome-box');
+			$('#welcome-box').removeClass('add-welcome-box');
+			$('#welcome-box').addClass('welcome-0-height');
+			localStorage.setItem('exitFull', 'true');
+		});
+		// localStorage.setItem('exitFull', 'false')
+		//end of welcome box
 
 });
