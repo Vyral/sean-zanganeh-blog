@@ -1993,6 +1993,35 @@ table tr, table td {
 @media (max-width: 992px) {
   .post-container {
     padding-right: 0px; } }
+.thankyou {
+  text-align: center;
+  margin-top: 3rem; }
+  .thankyou svg {
+    max-width: 50rem; }
+  .thankyou:first-child p {
+    margin-top: 2rem; }
+
+.checkmark {
+  fill: #15293d;
+  -webkit-animation: checkmark 2s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
+  animation: checkmark 2s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards; }
+
+.envelope {
+  -webkit-animation: checkmark 2s cubic-bezier(0.23, 1, 0.32, 1);
+  animation: checkmark 2s cubic-bezier(0.23, 1, 0.32, 1); }
+
+@-webkit-keyframes checkmark {
+  0% {
+    -webkit-transform: rotate(-15deg) scale(0.02); }
+  100% {
+    -webkit-transform: rotate(0deg) scale(1) translate(-209px, -148px); } }
+@keyframes checkmark {
+  0% {
+    -webkit-transform: rotate(-15deg) scale(0.02);
+    transform: rotate(-15deg) scale(0.02); }
+  100% {
+    -webkit-transform: rotate(0deg) scale(1) translate(-209px, -148px);
+    transform: rotate(0deg) scale(1) translate(-209px, -148px); } }
 .socials {
   padding: 0.7rem;
   margin-bottom: 0.7rem; }
