@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
+    <title>Sean Zanganeh Real Estate Podcast</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sean Zanganeh - your professional Del Mar, CA Real Estate Agent.</description>
     <language>en</language>
     <managingEditor></managingEditor>
-    <lastBuildDate>2016-10-28 11:41:19 -0500</lastBuildDate>
+    <lastBuildDate>2016-10-28 11:48:43 -0500</lastBuildDate>
     <media:copyright></media:copyright>
-    <media:thumbnail url="localhost:4000"/>
+    <media:thumbnail url="localhost:4000/img/Zanganeh_podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author></itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000"/>
+    <itunes:image href="localhost:4000/img/Zanganeh_podcast.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Del Mar, CA Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sean Zanganeh - your professional Del Mar, CA Real Estate Agent.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>How the Fall Market Impacts Your San Diego Home</title>
-        <link>localhost:4000/how-the-fall-market-impacts-you.html</link>
+        <link>localhost:4000/how-the-fall-market-impacts-your-san-diego-home.html</link>
         
           <category>Market Update</category>
         
@@ -43,13 +43,13 @@
 
 Let’s take a look at the fall market and what we can expect for the rest of the year.
 
-I’m constantly asked if I think we’re in a buyer’s market or a seller’s market, but I actually think it’s a neutral market. What does that mean to you? If you’re a buyer, you benefit from interest rates still being super low. We’re seeing buyers get great deals on properties, and the opportunities for these deals will continue as we head into the winter months. 
+I’m constantly asked if I think we’re in a buyer’s market or a seller’s market, but I actually think it’s a neutral market. What does that mean to you? If you’re a buyer, you benefit from interest rates still being super low. We’re seeing buyers get great deals on properties, and the opportunities for these deals will continue as we head into the winter months.
 
 “Smart real estate decisions are keeping our market moving forward.”
 
 What about sellers? Inventory is still tight in our market, meaning there are not a lot of homes for sale. Sellers are getting multiple offers on properties, and we see a lot of energy around listings. This means that there are definitely buyers out there for homes. With interest rates as low as they are, many buyers are taking action.
 
-It’s going to be a wacky election year and a lot of things are going to change, but our local market shouldn’t be affected much. We still have a lot of people who are looking to buy or sell, and a lot of people making smart real estate decisions are keeping our market moving forward. 
+It’s going to be a wacky election year and a lot of things are going to change, but our local market shouldn’t be affected much. We still have a lot of people who are looking to buy or sell, and smart real estate decisions are moving our market forward.
 
 If you’re thinking of buying or selling a home, give me a call or send me an email. I’d love to work with you.
 </description>
@@ -65,7 +65,7 @@ If you’re thinking of buying or selling a home, give me a call or send me an e
       
       <item>
         <title>Welcome to Our New Video Blog</title>
-        <link>localhost:4000/welcome-to-our-new-video-blog-copy.html</link>
+        <link>localhost:4000/welcome-to-our-new-video-blog.html</link>
         
           <category>Market Update</category>
         

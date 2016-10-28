@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/how-the-fall-market-impacts-you.html</loc>
+<loc>localhost:4000/how-the-fall-market-impacts-your-san-diego-home.html</loc>
 <lastmod>2016-10-12T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/welcome-to-our-new-video-blog-copy.html</loc>
+<loc>localhost:4000/welcome-to-our-new-video-blog.html</loc>
 <lastmod>2016-10-10T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -25,6 +25,9 @@
 </url>
 <url>
 <loc>localhost:4000/search.html</loc>
+</url>
+<url>
+<loc>localhost:4000/thankyou/</loc>
 </url>
 <url>
 <loc>localhost:4000/bower_components/jPlayer/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.playlist.html</loc>

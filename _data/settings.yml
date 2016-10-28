@@ -28,7 +28,7 @@ client:
   VR_form:
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
-  Our mission at -- CLIENT BRAND -- is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
+  Our mission at Sean Zanganeh Real Estate is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/SeanZanganehRealEstate/
@@ -43,9 +43,9 @@ socials:
   yelp_url: https://www.yelp.com/biz/sean-zanganeh-del-mar
   podcast_url:
 podcast:
-  title:
+  title: Sean Zanganeh Real Estate Podcast
   categories: News & Politics
-  image:
+  image: '/img/Zanganeh_podcast.png'
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Del Mar, CA Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sean Zanganeh - your professional Del Mar, CA Real Estate Agent.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
