@@ -2,31 +2,64 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Sean Zanganeh Real Estate Podcast</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sean Zanganeh - your professional Del Mar, CA Real Estate Agent.</description>
+    <link>http://seanzanganeh.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://seanzanganeh.com"/>
+    <description>As one of the top five agents with Windermere Homes & Estates, Sean Zanganeh prides himself on working closely with his clients in order to achieve their real estate goals. Sean uses proactive and innovative techniques to help you find your dream home. This podcast is just one way we work to help you make educated real estate decisions.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2016-10-28 11:53:07 -0500</lastBuildDate>
-    <media:copyright></media:copyright>
-    <media:thumbnail url="localhost:4000/img/Zanganeh_podcast.png"/>
+    <managingEditor>Sean Zanganeh</managingEditor>
+    <lastBuildDate>2016-11-29 16:43:50 -0600</lastBuildDate>
+    <media:copyright>Sean Zanganeh</media:copyright>
+    <media:thumbnail url="http://seanzanganeh.com/img/Zanganeh_podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>Sean@MySDDreamHome.com</itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:name>Sean Zanganeh</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Sean Zanganeh</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/Zanganeh_podcast.png"/>
+    <itunes:image href="http://seanzanganeh.com/img/Zanganeh_podcast.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Del Mar, CA Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sean Zanganeh - your professional Del Mar, CA Real Estate Agent.</itunes:summary>
+    <itunes:summary>As one of the top five agents with Windermere Homes & Estates, Sean Zanganeh prides himself on working closely with his clients in order to achieve their real estate goals. Sean uses proactive and innovative techniques to help you find your dream home. This podcast is just one way we work to help you make educated real estate decisions.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>The 3 Biggest Mistakes Home Sellers Make</title>
+        <link>http://seanzanganeh.com/the-3-biggest-mistakes-home-sellers-make.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Sean Zanganeh</author>
+        <pubDate>2016-11-10 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh++San+Diego%2C+CA+Real+Estate++Avoid+these+mistakes+when+selling.mp4</guid>
+        <description>
+
+It seems that home sellers keep making the same mistakes over and over in San Diego. We want you to be aware of these common mistakes so you avoid making them when it comes time to sell your home. Here are three big home selling mistakes to avoid:
+
+1. Incorrect pricing. Price is very important in San Diego, and we notice that when consumers see a home priced accurately, they will not only pay more, but they will take action quicker. We want to sell your home for top dollar in the shortest amount of time, so we always recommend pricing at the market value for the best results.
+
+2. Making your home hard to show. Some buyers may just be in town for a weekend or a few days and only have a limited time frame for when they can look at homes. We try to give our sellers as much advance notice as possible, but it’s also important that sellers be as flexible as they can while their home is on the market. A buyer might only have one opportunity to buy your home, so don’t send them away.
+
+3. Lack of marketing exposure. Sometimes sellers want to just test the market or be a “secret seller.” However, if you’re actively trying to sell your home, you need exposure. You have to get your home out there online, get it seen, and continue to promote it to buyers in the area.
+
+“Being a ‘secret seller’ won’t do you any good.”
+
+If you have any questions for us or need some more advice for getting your home sold, give us a call or send us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh++San+Diego%2C+CA+Real+Estate++Avoid+these+mistakes+when+selling.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://seanzanganeh.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh++San+Diego%2C+CA+Real+Estate++Avoid+these+mistakes+when+selling.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Del Mar, CA Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Sean Zanganeh</itunes:author>
+        <itunes:summary>There are many mistakes that can be made during a home sale. Here are three of them you should avoid above all else.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>How the Fall Market Impacts Your San Diego Home</title>
-        <link>localhost:4000/how-the-fall-market-impacts-your-san-diego-home.html</link>
+        <link>http://seanzanganeh.com/how-the-fall-market-impacts-your-san-diego-home.html</link>
         
           <category>Market Update</category>
         
@@ -36,7 +69,7 @@
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sean Zanganeh</author>
         <pubDate>2016-10-12 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh+Examining+Fall+Real+Estate+Market+Trends.mp4</guid>
         <description>
@@ -54,18 +87,18 @@ It’s going to be a wacky election year and a lot of things are going to change
 If you’re thinking of buying or selling a home, give me a call or send me an email. I’d love to work with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh+Examining+Fall+Real+Estate+Market+Trends.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://seanzanganeh.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh+Examining+Fall+Real+Estate+Market+Trends.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Del Mar, CA Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Sean Zanganeh</itunes:author>
         <itunes:summary>We're seeing some interesting trends in the fall real estate market. What does this mean for you? What does it mean for our market moving forward?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Welcome to Our New Video Blog</title>
-        <link>localhost:4000/welcome-to-our-new-video-blog.html</link>
+        <link>http://seanzanganeh.com/welcome-to-our-new-video-blog.html</link>
         
           <category>Market Update</category>
         
@@ -75,7 +108,7 @@ If you’re thinking of buying or selling a home, give me a call or send me an e
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sean Zanganeh</author>
         <pubDate>2016-10-10 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh+Youtube+Intro.mp4</guid>
         <description>
@@ -91,18 +124,18 @@ Rather than simply guess what’s on your mind, though, we’d like to reach out
 Until next time, if you’ve got any questions about real estate that you’d like us to address, please don’t hesitate to call us or send us an email. We look forward to producing great content that will be helpful for your real estate journey!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh+Youtube+Intro.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://seanzanganeh.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh+Youtube+Intro.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Del Mar, CA Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Sean Zanganeh</itunes:author>
         <itunes:summary>Exciting news: I’ll be sharing my real estate expertise with you through my new video blog!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+    <copyright>Sean Zanganeh</copyright>
+    <media:credit role="author">Sean Zanganeh</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sean Zanganeh - your professional Del Mar, CA Real Estate Agent.</media:description>
+    <media:description type="plain">As one of the top five agents with Windermere Homes & Estates, Sean Zanganeh prides himself on working closely with his clients in order to achieve their real estate goals. Sean uses proactive and innovative techniques to help you find your dream home. This podcast is just one way we work to help you make educated real estate decisions.</media:description>
   </channel>
 </rss>
