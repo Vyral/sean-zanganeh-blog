@@ -22,9 +22,9 @@ I get asked all the time what sellers should do to get their homes ready for the
 
 Secondly, keep the light fixtures simple. People don’t find a lot of value in extremely lavish light fixtures, especially in the middle price points. Instead of getting a lavish light fixture, stick with something clean and simple.&nbsp;
 
-The next thing to pay attention to is flooring. In high traffic areas, it’s common for older homes to have carpet in the hallway, living room, or dining room. Buyers do not want you to replace that flooring with more carpet. Instead, consider laminate flooring, inexpensive tile, or hardwood floors. There are a lot of entry level hardwoods that competes with carpet pricing that you could install in a day or two and will look amazing.&nbsp;
+The next thing to pay attention to is flooring. In high traffic areas, it’s common for older homes to have carpet in the hallway, living room, or dining room. Buyers do not want you to replace that flooring with more carpet. Instead, consider laminate flooring, inexpensive tile, or hardwood floors. There are a lot of entry level hardwoods that compete with carpet pricing that you could install in a day or two and will look amazing.&nbsp;
 
-**Although you should paint your home, you should avoid bold colors**. Stick to neutral paint colors instead. Bold reds, purples, and blues are a little too dark and a little too specific to your taste. Buyers want something a little more neutral and calming.&nbsp;
+**Although you should paint your home, you should avoid bold colors**. Stick to neutral paint colors instead. Bold reds, purples, and blues are a little too dark and a little too specific to most people's tastes. Buyers want something a little more neutral and calming.&nbsp;
 
 {% include pullquote.html %}
 
