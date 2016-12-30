@@ -22,4 +22,6 @@ A lot of sellers have been asking us what they should do when preparing their ho
 2. **Depersonalization.** Take the magnets off the fridge and the family photos off the wall. We want your home to feel as neutral as possible for buyers.
 3. **Making noticeable repairs**. If something obviously needs to be fixed, get it taken care of whether it’s a bad doorbell, a front door, or a light bulb. These are simple things that you or a handyman can take care of before listing your home for sale.
 
+{% include pullquote.html %}
+
 If you have any questions for us, don’t hesitate to give us a call or send us an email. We would love to hear from you.
