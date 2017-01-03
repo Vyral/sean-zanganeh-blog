@@ -16,11 +16,11 @@ youtube_code: MtQcOZM47jA
 
 {% include youtube.html %}
 
-A lot of sellers have been asking us what they should do when preparing their homes for sale, so we’ve got a few tips to share with all of you. **Here are three things you should absolutely do before putting your home on the market.**
+A lot of sellers have been asking us what they should do when preparing their homes for sale, so we’ve got a few tips to share with you. **Here are three things you should absolutely do before putting your home on the market:**
 
 1. **Declutter.** We all have personal items in our home. If you remove them before you sell, it makes things less cluttered and simpler for the buyers, allowing them to focus on the space itself. If you have any extra furniture that is out of place, consider storing it in your garage or a storage unit.
 2. **Depersonalization.** Take the magnets off the fridge and the family photos off the wall. We want your home to feel as neutral as possible for buyers.
-3. **Making noticeable repairs**. If something obviously needs to be fixed, get it taken care of whether it’s a bad doorbell, a front door, or a light bulb. These are simple things that you or a handyman can take care of before listing your home for sale.
+3. **Make noticeable repairs**. If something obviously needs to be fixed, get it taken care of whether it’s a bad doorbell, a front door, or a light bulb. These are simple things that you or a handyman can take care of before listing your home for sale.
 
 {% include pullquote.html %}
 
