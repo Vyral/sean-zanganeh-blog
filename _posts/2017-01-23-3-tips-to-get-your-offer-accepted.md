@@ -20,7 +20,7 @@ You’ve gone through the work of finding your dream home, and you’ve submitte
 
 1. **Do not underestimate the importance of your agent.** You need to make sure your agent is in direct contact with the listing agent and knows what’s happening, what offers are coming in, and what price points the sellers are looking at. The more communication your agent has with the listing agent, the higher the probability that you’re going to get your offer accepted. The listing agent wants to know that you are easy to communicate with &nbsp;if they were to go into escrow with you and your agent.
 2. **Make sure you send something personal**. Something like a letter or a short video is going to make you look like a more appealing buyer, rather than just giving them a number, an offer, and an email. Send something that lets the seller know you’re human, and really let them know your story. They might end up having something in common with you, which could sway them in your direction.
-3. **Find out why they’re moving, and where they’re moving to**. Get as much information as you possibly can about the sellers. They might have hot buttons, and the more you know, the more prepared you can be to make a personal plea to go with your offer.&nbsp;
+3. **Find out why they’re moving, and where they’re moving to**. Get as much information as you possibly can about the sellers. They might have hot buttons, and the more you know, the more prepared you can be to make a personal plea to go with your offer.
 
 {% include pullquote.html %}
 
