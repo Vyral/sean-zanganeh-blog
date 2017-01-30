@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Tips to Get Your Offer Accepted
+title: How to Win in a Multiple Offer Situation
 tags:
   - Buyer Tips
 excerpt: 'If you’re looking to buy a home, you need to be prepared in case of a multiple offer situation. Use these three tips to make sure both you and your offer stand out.'
