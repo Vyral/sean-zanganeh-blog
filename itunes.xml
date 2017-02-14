@@ -23,8 +23,8 @@ layout: null
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="{{site.data.settings.podcast.image | prepend: site.url}}"/>
     <itunes:keywords>{{site.data.settings.podcast.keywords}}</itunes:keywords>
-    <itunes:subtitle>{{site.data.settings.podcast.subtitle}}</itunes:subtitle>
-    <itunes:summary>{{site.data.settings.podcast.description}}</itunes:summary>
+    <itunes:subtitle>{{ post.excerpt | strip_html }}</itunes:subtitle>
+    <itunes:summary>{{ post.excerpt | strip_html }}</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     {% for post in site.posts %}
       <item>
