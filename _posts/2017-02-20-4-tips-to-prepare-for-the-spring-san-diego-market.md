@@ -3,7 +3,7 @@ layout: post
 title: 4 Tips to Prepare for the Spring San Diego Market
 tags:
   - Home Seller Tips
-excerpt:
+excerpt: 'If you plan to sell your house this spring, I have four tips that will help you get ready to sell quickly for the most money possible.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/San+Diego%2C+CA+Real+Estate+Spring+Sale+Tips.mp4'
 pullquote: Preparing could be as easy as some fresh mulch in the front yard.
 enclosure_type: video/mp4
