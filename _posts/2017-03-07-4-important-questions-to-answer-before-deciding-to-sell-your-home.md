@@ -10,13 +10,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: vX0lcJtnv9w
+youtube_code: 9IeF0zdwBAM
 ---
 
 
 {% include youtube.html %}
 
-I get asked all the time by people if they should sell their home now or wait. People want to know when the right time to sell is, and it’s an important question to ask. Before we list a home on the market we take the time to ask sellers a few different questions to figure out what their goals are and whether it does make sense for them to sell now or wait until a later time. Here they are:
+I get asked all the time by people if they should sell their home now or wait. People want to know when the right time to sell is, and it’s an important question to ask. Before we list a home on the market we take the time to ask sellers a few different questions to figure out what their goals are and whether it does make sense for them to sell now or wait until a later time.&nbsp;
 
 1. **Why are you moving?** Are you upgrading or downsizing? Moving closer inland or more toward the coast? It’s the first thing we ask.
 
