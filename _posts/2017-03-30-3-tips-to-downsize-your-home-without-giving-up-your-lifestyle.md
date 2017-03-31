@@ -22,7 +22,7 @@ First, **start with a plan.**&nbsp;
 
 Write down what you want to keep, what you want to donate, and what doesn’t need to go with you. We can help you create that list and then organize, box up, and move all your possessions.&nbsp;
 
-Next, **look for that next house now.** You need to know where you’re going before you put your home on the market so you have a good, realistic idea of what house you can get next. A good Realtor can help you clarify and list your living preferences and then show you a couple of homes that match up with them so you can get a flavor of what your new lifestyle would be in your new neighborhood.&nbsp;
+Next, **look for that next house now.** You need to know where you’re going before you put your home on the market so you have a good, realistic idea of what house you can get next. A good Realtor can help you clarify and list your living preferences and then show you a couple of homes that match up with them so you can get a taste of what your new lifestyle would be in your new neighborhood.&nbsp;
 
 Lastly, **start prepping your home for sale.&nbsp;**
 
