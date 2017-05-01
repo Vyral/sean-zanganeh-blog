@@ -20,13 +20,13 @@ I get asked by a lot of young professionals about the benefits of home buying. T
 
 **My initial response to them is that it depends. We’ve got to take a look at your goals, your income, and your debt, and everything else that goes along with buying a home**.
 
-Generally, the average rental rate for a 2-bedroom, 2-bathroom apartment is over $2100 in San Diego. That’s a lot to be shelling out in rent.
+Generally, the average rental rate for a 2-bedroom, 2-bathroom apartment is over $2,100 in San Diego. That’s a lot to be shelling out in rent.
 
-Right now, with that same $2100 going toward a mortgage payment, you could get a 2-bedroom, 2-bathroom condo here in the city in the mid $400,000 price range and still keep the same monthly cost.
+Right now, with that same $2,100 going toward a mortgage payment, you could get a 2-bedroom, 2-bathroom condo here in the city in the mid $400,000 price range and still keep the same monthly cost.
 
 {% include pullquote.html %}
 
-**Another benefit of buying a home is that you can capture back your interest rate deduction when you file your taxes each year.**You can’t do that with rent.&nbsp;
+**Another benefit of buying a home is that you can capture back your interest rate deduction when you file your taxes each year.&nbsp;**You can’t do that with rent.&nbsp;
 
 Buying isn’t for everybody, but we can walk you through the options to make sure you make a decision that best fits your lifestyle and your needs here in San Diego.
 
