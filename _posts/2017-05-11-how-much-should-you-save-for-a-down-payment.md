@@ -20,7 +20,7 @@ When buying a home, most people will need to get a loan. However, how much of a 
 
 **You’ve got many different options.** The first is a VA loan, which is a loan for active and former military servicemen and women. This loan gives back to those who defend our freedom by offering them a 0% down loan on amounts over $600,000.
 
-The next product is the FHA loan. This loan is backed by the government, and allows the buyer to purchase a home with just 3.5% down here in San Diego. This loan opens a lot of doors to traditional first-time homebuyers. **You can get a great rate, get into the home you want, and start building equity.**
+The next product is the FHA loan. This loan is backed by the government and allows the buyer to purchase a home with just 3.5% down here in San Diego. This loan opens a lot of doors to traditional first-time homebuyers. **You can get a great rate, get into the home you want, and start building equity.**
 
 {% include pullquote.html %}
 
