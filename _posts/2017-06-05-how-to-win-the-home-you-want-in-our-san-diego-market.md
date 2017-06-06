@@ -18,7 +18,7 @@ youtube_code: swKeowds0Yc
 
 Are you looking to win the home you want in our current market? Here are a few statistics you can use that will help you do so.&nbsp;
 <br>&nbsp;
-<br>The first stat, which is a leading indicator of the real estate market, is new homes coming on the market. At the moment, the number of new homes coming on the market is down 28% compared to this time last year. This means **you have almost 30% fewer options than you did last year.&nbsp;**
+<br>The first stat, which is a leading indicator of the real estate market, is the number of new homes coming on the market. At the moment, the number of new homes coming on the market is down 28% compared to this time last year. This means **you have almost 30% fewer options than you did last year.&nbsp;**
 <br>&nbsp;
 <br>The next stat we look at is homes going into escrow, or however many homes coming on the market that are actually selling right now. This number is almost unchanged from this time last year. Last year, there were 83 homes going into escrow; this year, there are 83 as well. This means **if you’re out looking for homes, you will face a lot of competition.&nbsp;**
 <br>&nbsp;
