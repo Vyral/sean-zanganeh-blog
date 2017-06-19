@@ -27,7 +27,6 @@ Are we at the peak of the real estate market? The short answer is no, not yet.&n
 <br>Historically speaking, when a market has a shift or correction, affordability is around the mid to high teens.&nbsp;
 
 {% include pullquote.html %}
-<br>
 <br>So, what does this mean to you?&nbsp;
 <br>&nbsp;
 <br>**Ultimately, our market still has quite a bit of room to grow**, and we’re not sure how much room there is.&nbsp;
