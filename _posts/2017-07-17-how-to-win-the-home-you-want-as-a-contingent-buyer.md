@@ -5,7 +5,7 @@ tags:
   - Buyer Tips
 excerpt: 'In today’s contingent market, there are a couple things that we do to make sure that our clients win the home of their dreams.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/San+Diego%2C+CA+Real+Estate+Contingent+Buyer.mp4'
-pullquote: Get out there and look at some homes to see what’s out there for you and your family.
+pullquote: Get out there and look at some homes to see what’s available out there for you and your family.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
