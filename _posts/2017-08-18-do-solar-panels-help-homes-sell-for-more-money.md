@@ -24,7 +24,7 @@ What should you know about solar panels before buying them yourself? We’ve got
 
 We aren’t experts in solar energy, but we are experts in real estate values and what solar energy systems do to them. **What we’ve noticed is that homes that are sold with solar systems tend to sell for more money**. This is only for solar systems that have been purchased, however.
 
-**Solar energy systems that are leased have the opposite effect**. Homes can sell for as much as $100,000 less with leased solar systems than if they didn’t have a system at all. This is because most buyers are hesitant to pick up the extra costs. Although a leased solar system is cheaper in the short-term, a purchased solar system has a much higher resale value.&nbsp;
+**Solar energy systems that are leased have the opposite effect**. Homes can sell for as much as $100,000 less with leased solar systems than if they didn’t have a system at all. This is because most buyers are hesitant to pick up the extra costs. Although a leased solar system is cheaper in the short term, a purchased solar system has a much higher resale value.&nbsp;
 
 {% include pullquote.html %}
 
