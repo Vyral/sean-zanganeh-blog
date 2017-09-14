@@ -35,4 +35,6 @@ To avoid this situation, **here are 9 tips and tricks you can use to extend the 
 8. To improve your dryer’s circulation, make sure its exhaust system is cleaned once a year. People usually just pull the lint tray out and clean that, but a lot of lint can also get stuck in the tubing that leads to the exterior of the house, and many people invest in a boost fan to push that lint out.&nbsp;
 9. Don’t pour stain remover into the washer or store any bottles like that on top of it. These bottles can get hot and melt while the washer is in use and spill all over the machine.&nbsp;
 
+{% include pullquote.html %}
+
 If you have any questions about these tips and tricks or you’re looking to buy or sell a home in the San Diego area, feel free to give me a call or shoot me an email. I’d be glad to help.
