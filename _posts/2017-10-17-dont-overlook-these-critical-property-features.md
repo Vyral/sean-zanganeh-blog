@@ -2,10 +2,7 @@
 layout: post
 title: Don't Overlook These Critical Property Features
 tags:
-  - Market Update
-  - Real Estate
   - Buyer Tips
-  - Home Seller Tips
 excerpt: >-
   If you’re searching the market for your next home, there are a few critical
   aspects you should never overlook in the process.
@@ -22,9 +19,9 @@ youtube_code: Qs4unBbi9es
 
 {% include youtube.html %}
 
-There’s a lot to think about whenever you’re taking steps to purchase your next home. Of course, one of the first things to do is to sync up with a great real estate agent who’s really got your back.&nbsp;
+There’s a lot to think about whenever you’re taking steps to purchase your next home. Of course, one of the first things to do is to sync up with a great real estate agent who’s really got your back.
 
-Even so, there are a couple of things you shouldn’t overlook in your transaction. Even with the help of an agent, you want to pay close attention to certain aspects, yourself.&nbsp;
+Even so, there are a couple of things you shouldn’t overlook in your transaction. Even with the help of an agent, you want to pay close attention to certain aspects, yourself.
 
 First, pay attention to the neighborhood. Typically speaking, you’ll visit properties with your real estate agent around a pretty consistent time of day. My team and I personally recommend revisiting any property you’re interested in at different times, to get a true feel for the community and know exactly what you’re getting.
 
@@ -36,7 +33,7 @@ Also, be sure to look into the rules of the community. A lot of communities in o
 
 Another thing people sometimes forget is to critically consider the bedroom-to-bathroom ratio. **Think realistically about how much space you and your family are going to need.**Even something that may work for you now may not work in the future if you plan on growing your family. Before deciding on a home, really think about what makes sense for you.
 
-You should also make sure to change your HVAC systems. A lot of property in San Diego has septic systems, solar systems, wells, and other features. Look into what maintenance is going to cost you.&nbsp;
+You should also make sure to change your HVAC systems. A lot of property in San Diego has septic systems, solar systems, wells, and other features. Look into what maintenance is going to cost you.
 
 Another question to ask yourself is if you’re okay with features that can’t be changed. **Things like location, lot size, and the floor plan are all features you’re going to have to live with for however long you stay.**Make sure you’re happy with them.
 
