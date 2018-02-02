@@ -31,7 +31,7 @@ On our end, with the mid-range, detached home prices in the mid-$700,000 price p
 
 {% include pullquote.html %}
 
-Another cool aspect, according to Todd, is that these new limits also pertain to VA and FHA loans. It means that you have a 3.5%-down FHA program where you can basically buy a mid-range, detached home and get an incredible interest rate. With the VA loan, you can put 0% down. **This could actually stimulate the market**rather than hurt it, as people are concerned about with the recent tax reform. It will help both first-time and experienced homebuyers.
+Another cool aspect, according to Todd, is that these new limits also pertain to VA and FHA loans. It means that you have a 3.5%-down FHA program where you can basically buy a mid-range, detached home and get an incredible interest rate. With the VA loan, you can put 0% down. **This could actually stimulate the market&nbsp;**rather than hurt it, as people are concerned about with the recent tax reform. It will help both first-time and experienced homebuyers.
 
 We are really excited to be able to help families in 2018. If he can be of help to you, Todd can be reached at (858) 775-8958 or tpianin@rpm-mtg.com.
 
