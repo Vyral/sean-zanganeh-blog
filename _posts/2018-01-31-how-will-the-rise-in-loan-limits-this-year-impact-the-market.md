@@ -16,7 +16,6 @@ youtube_alternate_image:
 youtube_code: rT73weOL0K0
 ---
 
-
 {% include youtube.html %}
 
 Today, I have with me special guest Todd Pianin of RPM Mortgage, the man of all things mortgage. He’ll be discussing the rise in loan limits this year and how that can help you win in the San Diego real estate market.
@@ -34,5 +33,9 @@ On our end, with the mid-range, detached home prices in the mid-$700,000 price p
 Another cool aspect, according to Todd, is that these new limits also pertain to VA and FHA loans. It means that you have a 3.5%-down FHA program where you can basically buy a mid-range, detached home and get an incredible interest rate. With the VA loan, you can put 0% down. **This could actually stimulate the market&nbsp;**rather than hurt it, as people are concerned about with the recent tax reform. It will help both first-time and experienced homebuyers.
 
 We are really excited to be able to help families in 2018. If he can be of help to you, Todd can be reached at (858) 775-8958 or tpianin@rpm-mtg.com.
+
+Todd Pianin, Regional Manager NMLS# 304014
+
+LendUS, LLC dba RPM Mortgage NMLS #1938 - Licensed by the Department of Business Oversight under the CA Residential Mortgage Lending Act. Equal Housing Opportunity.
 
 If you have any questions or need any tips and tricks on how to win in the San Diego real estate market, feel free to reach out to me. I’d love to help you out this year.
