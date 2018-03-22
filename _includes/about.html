@@ -7,7 +7,7 @@
 	{{site.data.settings.client.about_markdown | markdownify }}
 	<p>
 		<b>{{ site.data.settings.client.name }}</b><br />
-		#{% if site.data.settings.client.license_number != null %}
+		{% if site.data.settings.client.license_number != null %}
 		{{ site.data.settings.client.license_number }}</br>
 		{% endif %}
 		{% if site.data.settings.client.brand != null %}
