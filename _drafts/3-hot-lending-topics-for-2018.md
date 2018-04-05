@@ -8,13 +8,16 @@ tags:
   - Home Seller Tips
 excerpt:
 enclosure:
-pullquote: 'Andross, the Final Boss'
+pullquote: >-
+  People still need to buy homes, so they shouldn’t let tax reform prevent them
+  from doing so.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: uieM18rZdHY
 ---
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
