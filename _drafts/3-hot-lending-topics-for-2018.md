@@ -20,7 +20,7 @@ youtube_code: uieM18rZdHY
 
 <center>{% include youtube.html %}</center>
 
-*What’s going on in the lending world right now in San Diego? There are three main topics I’d like to go over, today.*
+<center>*What’s going on in the lending world right now in San Diego? There are three main topics I’d like to go over, today.*</center>
 
 I’m joined today by special guest Todd Pianin of RPM Mortgage to talk about a few hot topics relating to mortgage lending and real estate in 2018.
 
