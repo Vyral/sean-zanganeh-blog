@@ -2,33 +2,35 @@
 layout: post
 title: 3 Hot Lending Topics for 2018
 tags:
-  - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
-excerpt:
-enclosure:
+excerpt: >-
+  What’s going on in the lending world right now in San Diego? There are three
+  main topics I’d like to go over, today.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/3+Hot+Lending+Topics+for+2018.mp4
 pullquote: >-
   People still need to buy homes, so they shouldn’t let tax reform prevent them
   from doing so.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/sean-zanganeh-feb-1-screen-shot-no-play.jpg
 youtube_code: 'https://youtu.be/itB0wkyDcNI'
 ---
 
 <center>{% include youtube.html %}</center>
 
-<center>*What’s going on in the lending world right now in San Diego? There are three main topics I’d like to go over, today.*</center>
+<center>*What&rsquo;s going on in the lending world right now in San Diego? There are three main topics I&rsquo;d like to go over, today.*</center>
+
+&nbsp;
 
 I’m joined today by special guest Todd Pianin of RPM Mortgage to talk about a few hot topics relating to mortgage lending and real estate in 2018.
 
 We’re focusing on three subjects, specifically.
 
-1. **Tax reform**. Right now, tax reform is a huge topic in San Diego. With property tax deductions capped at $10,000 and mortgage interest deductions capped at $750,000, many people are concerned. As a result, Todd tells me that he’s been receiving a lot of calls about refinancing. Still, Todd doesn’t believe tax reform will slow down the market. He says people still need to buy homes, so they shouldn’t let these changes prevent them from doing so.<br>
+1. **Tax reform**. Right now, tax reform is a huge topic in San Diego. With property tax deductions capped at $10,000 and mortgage interest deductions capped at $750,000, many people are concerned. As a result, Todd tells me that he’s been receiving a lot of calls about refinancing. Still, Todd doesn’t believe tax reform will slow down the market. He says people still need to buy homes, so they shouldn’t let these changes prevent them from doing so.
 
-2. **Paying points**. Todd says people need to start talking about paying points, since points are still tax deductible. If you’re paying points, you can actually buy down your interest rate to eventually earn a better one. You can also deduct points on a refinance, as well, if you deduct over the lifetime of the loan. A lot of mortgage lenders are scared to sell points because they aren’t used to doing so, but Todd has been doing this for the last 20 years.<br>
+2. **Paying points**. Todd says people need to start talking about paying points, since points are still tax deductible. If you’re paying points, you can actually buy down your interest rate to eventually earn a better one. You can also deduct points on a refinance, as well, if you deduct over the lifetime of the loan. A lot of mortgage lenders are scared to sell points because they aren’t used to doing so, but Todd has been doing this for the last 20 years.
 
 3. **Niche programs**. According to Todd, 2018 will be the “year of the niche.” There are already a number of diverse programs available in today’s market. Whatever a buyer’s circumstances may be, there is likely a program out there to suit their needs.
 
