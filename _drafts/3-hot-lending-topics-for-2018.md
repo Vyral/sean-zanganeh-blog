@@ -18,7 +18,7 @@ youtube_alternate_image:
 youtube_code: uieM18rZdHY
 ---
 
-{% include youtube.html %}
+<center>{% include youtube.html %}</center>
 
 *What’s going on in the lending world right now in San Diego? There are three main topics I’d like to go over, today.*
 
