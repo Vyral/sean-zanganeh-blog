@@ -15,14 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sean-zanganeh-feb-1-screen-shot-no-play.jpg
-youtube_code: 'https://youtu.be/itB0wkyDcNI'
+youtube_code:
 ---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/itB0wkyDcNI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/itB0wkyDcNI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></center>
 
 <center>*What&rsquo;s going on in the lending world right now in San Diego? There are three main topics I&rsquo;d like to go over, today.*</center>
-
-&nbsp;
 
 I’m joined today by special guest Todd Pianin of RPM Mortgage to talk about a few hot topics relating to mortgage lending and real estate in 2018.
 
