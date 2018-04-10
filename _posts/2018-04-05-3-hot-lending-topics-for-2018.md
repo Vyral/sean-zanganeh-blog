@@ -18,7 +18,7 @@ youtube_alternate_image: /uploads/sean-zanganeh-feb-1-screen-shot-no-play.jpg
 youtube_code: 'https://youtu.be/itB0wkyDcNI'
 ---
 
-<center>{% include youtube.html %}</center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/itB0wkyDcNI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 <center>*What&rsquo;s going on in the lending world right now in San Diego? There are three main topics I&rsquo;d like to go over, today.*</center>
 
