@@ -3,6 +3,8 @@ layout: post
 title: 3 Hot Lending Topics for 2018
 tags:
   - Real Estate
+  - taxes
+  - tax reform
 excerpt: >-
   What’s going on in the lending world right now in San Diego? There are three
   main topics I’d like to go over, today.
