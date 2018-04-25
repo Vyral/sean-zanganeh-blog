@@ -19,7 +19,9 @@ youtube_code: aZ1siMOSYHc
 
 {% include youtube.html %}
 
-<center>Looking over the title report as a buyer is an important step in real estate process. Today, I’ve brought on two experts to explain why this is.</center>
+<center><em>Looking over the title report as a buyer is an important step in real estate process. Today, I&rsquo;ve brought on two experts to explain why this is.</em></center>
+
+&nbsp;
 
 So, you’ve made an offer on a home, gotten accepted, and received a copy of the title report. Now what?
 
