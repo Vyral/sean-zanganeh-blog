@@ -3,8 +3,8 @@ layout: post
 title: 3 Hot Lending Topics for 2018
 tags:
   - Real Estate
-  - taxes
-  - tax reform
+  - Taxes
+  - Tax Reform
 excerpt: >-
   What’s going on in the lending world right now in San Diego? There are three
   main topics I’d like to go over, today.
@@ -24,7 +24,7 @@ youtube_code:
 
 <center><em>What&rsquo;s going on in the lending world right now in San Diego? There are three main topics I&rsquo;d like to go over, today.</em></center>
 
-&nbsp;
+ 
 
 I’m joined today by special guest Todd Pianin of RPM Mortgage to talk about a few hot topics relating to mortgage lending and real estate in 2018.
 
