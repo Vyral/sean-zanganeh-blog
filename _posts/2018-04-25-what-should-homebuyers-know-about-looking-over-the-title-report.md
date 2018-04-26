@@ -19,13 +19,13 @@ youtube_code: aZ1siMOSYHc
 
 {% include youtube.html %}
 
-<center><em>Looking over the title report as a buyer is an important step in real estate process. Today, I&rsquo;ve brought on two experts to explain why this is.</em></center>
+<center><em>Looking over the title report as a buyer is an important step in real estate process. Today I&rsquo;ve brought on two experts to explain why this is.</em></center>
 
 &nbsp;
 
 So, you’ve made an offer on a home, gotten accepted, and received a copy of the title report. Now what?
 
-Today, I’m joined by Sean and Alex from Fidelity Title to talk about a common question: **What do you do with a title report once you’re in escrow?**
+Today I’m joined by Sean and Alex from Fidelity Title to talk about a common question: **What do you do with a title report once you’re in escrow?**
 
 For buyers, looking at the preliminary title report will be very important. This title report will alert you to things such as easements and CC&Rs. First of all, many of you may be wondering: “What’s a CC&R, and why should I care?”
 
