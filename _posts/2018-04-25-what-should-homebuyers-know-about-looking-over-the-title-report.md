@@ -41,10 +41,10 @@ With the Hero Program, the tax bill will show the amount owed on a yearly basis.
 
 When you do business with my team and me, Sean and Alex go through every single title report to make sure there’s nothing wrong. We’re truly lucky to have their help.
 
-Shawn Harris
+If you are looking for more information and want to get in touch with Shawn or Alix, you can contact them with the following information:
 
-shawn@mytitleandescrow.com, 760-271-8584<br><br>Alix Kammeyer
+**Shawn Harris**<br>shawn@mytitleandescrow.com<br>760-271-8584
 
-alix@mytitleandescrow.com, 619-933-9621
+**Alix Kammeyer**<br>alix@mytitleandescrow.com<br>619-933-9621
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+And as always, if you have any other questions for me or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
