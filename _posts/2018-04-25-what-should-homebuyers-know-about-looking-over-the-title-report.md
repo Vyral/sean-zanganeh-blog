@@ -39,7 +39,7 @@ These standards sound similar to what you might find with an HOA, but many homes
 
 With the Hero Program, the tax bill will show the amount owed on a yearly basis. When you examine this tax bill as a buyer, you want to ensure that this is listed as a line item on the exception. However, if you don’t see it on the tax bill, it doesn’t mean the program doesn’t exist. It all depends on when the seller got the program.
 
-When you do business with my team and me, Sean and Alex go through every single title report to make sure there’s nothing wrong. We’re truly lucky to have their help.
+When you do business with my team and I, Sean and Alex go through every single title report to make sure there’s nothing wrong. We’re truly lucky to have their help.
 
 If you are looking for more information and want to get in touch with Shawn or Alix, you can contact them with the following information:
 
