@@ -25,7 +25,7 @@ youtube_code: aZ1siMOSYHc
 
 So, you’ve made an offer on a home, gotten accepted, and received a copy of the title report. Now what?
 
-Today I’m joined by Sean and Alex from Fidelity Title to talk about a common question: **What do you do with a title report once you’re in escrow?**
+Today I’m joined by Shawn and Alex from Fidelity Title to talk about a common question: **What do you do with a title report once you’re in escrow?**
 
 For buyers, looking at the preliminary title report will be very important. This title report will alert you to things such as easements and CC&Rs. First of all, many of you may be wondering: “What’s a CC&R, and why should I care?”
 
@@ -39,7 +39,7 @@ These standards sound similar to what you might find with an HOA, but many homes
 
 With the Hero Program, the tax bill will show the amount owed on a yearly basis. When you examine this tax bill as a buyer, you want to ensure that this is listed as a line item on the exception. However, if you don’t see it on the tax bill, it doesn’t mean the program doesn’t exist. It all depends on when the seller got the program.
 
-When you do business with my team and I, Sean and Alex go through every single title report to make sure there’s nothing wrong. We’re truly lucky to have their help.
+When you do business with my team and I, Shawn and Alex go through every single title report to make sure there’s nothing wrong. We’re truly lucky to have their help.
 
 If you are looking for more information and want to get in touch with Shawn or Alix, you can contact them with the following information:
 
