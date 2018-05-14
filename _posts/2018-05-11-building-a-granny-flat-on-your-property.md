@@ -42,3 +42,5 @@ Some people in San Diego may want to convert a current space, such as another ga
 You can contact Ian for more information about if your property qualifies at (619) 579-0088.
 
 If you want to know more about the real estate market here in San Diego, please don’t hesitate to contact me. I look forward to speaking with you soon.
+
+**Ian Scattergood**<br>(619) 579-0088
