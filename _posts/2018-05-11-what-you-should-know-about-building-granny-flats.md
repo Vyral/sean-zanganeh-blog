@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a Granny Flat on Your Property
+title: What You Should Know About Building Granny Flats
 tags:
   - Real Estate
   - Home Owner Tips
@@ -8,7 +8,7 @@ excerpt: >-
   Are you thinking about building an ADU or granny flat on your property? Today
   I have Ian Scattergood with me to talk about the guidelines for San Diego.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/Building+a+Granny+Flat+on+Your+Property.mp4
+  https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/-+San+Diego%252C+CA+Real+Estate-+Granny+Flats+Fixed.mp4
 pullquote: >-
   Each jurisdiction can have either more restrictive or less restrictive
   guidelines than what the state has.
@@ -16,14 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sean-zanganeh-may-1-no-play.jpg
-youtube_code: TF2aYKd_ifA
+youtube_code: 0quoEEj-QaY
 ---
 
 {% include youtube.html %}
 
 <center><em>Are you thinking about building an ADU or granny flat on your property? Today I have Ian Scattergood with me to talk about the guidelines for San Diego.</em></center>
 
-&nbsp;
+ 
 
 Are you looking to build a granny flat or accessory unit on your property? Today we have Ian Scattergood, a permit pro, with us to discuss how to get a granny flat or accessory dwelling unit built (ADU) on your property in San Diego.
 
