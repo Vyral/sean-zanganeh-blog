@@ -5,7 +5,7 @@ tags:
   - Real Estate
   - Home Owner Tips
 excerpt: >-
-  Are you thinking about building an ADU or granny flat on your property? Today
+  Are you thinking about building an ADU or Granny Flat on your property? Today
   I have Ian Scattergood with me to talk about the guidelines for San Diego.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/-+San+Diego%252C+CA+Real+Estate-+Granny+Flats+Fixed.mp4
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sean-zanganeh-may-1-no-play.jpg
+youtube_alternate_image: /uploads/sean-zanganeh-may-1-no-play-1.jpg
 youtube_code: 0quoEEj-QaY
 ---
 
