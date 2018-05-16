@@ -23,7 +23,7 @@ youtube_code: 0quoEEj-QaY
 
 <center><em>Are you thinking about building an ADU or granny flat on your property? Today I have Ian Scattergood with me to talk about the guidelines for San Diego.</em></center>
 
- 
+&nbsp;
 
 Are you looking to build a granny flat or accessory unit on your property? Today we have Ian Scattergood, a permit pro, with us to discuss how to get a granny flat or accessory dwelling unit built (ADU) on your property in San Diego.
 
@@ -43,4 +43,4 @@ You can contact Ian for more information about if your property qualifies at (61
 
 If you want to know more about the real estate market here in San Diego, please don’t hesitate to contact me. I look forward to speaking with you soon.
 
-**Ian Scattergood**<br>(619) 579-0088
+**Ian Scattergood**<br>Permit Pro Consultants<br>(619) 579-0088<br>[ian@permitprosd.com](mailto:ian@permitprosd.com)
