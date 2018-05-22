@@ -8,7 +8,7 @@ excerpt: >-
   Are you thinking about building an ADU or Granny Flat on your property? Today
   I have Ian Scattergood with me to talk about the guidelines for San Diego.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/-+San+Diego%252C+CA+Real+Estate-+Granny+Flats+Fixed.mp4
+  https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/Here%2527s+How+to+Build+a+Granny+Flat+in+San+Diego.mp4
 pullquote: >-
   Each jurisdiction can have either more restrictive or less restrictive
   guidelines than what the state has.
