@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sean-zanganeh-may-1-no-play-1.jpg
+youtube_alternate_image: /uploads/sean-zanganeh-may-1-no-play-2.jpg
 youtube_code: 0quoEEj-QaY
 ---
 
