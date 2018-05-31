@@ -23,7 +23,9 @@ youtube_code: PREFgaP5bYI
 
 {% include youtube.html %}
 
-<center>Seth Arruda of Alta Vista Insurance joins me to talk about insurance options to consider when purchasing a home.</center>
+<center><em>Seth Arruda of Alta Vista Insurance joins me to talk about insurance options to consider when purchasing a home.</em></center>
+
+&nbsp;
 
 I am joined by Seth Arruda to talk to you about looking for insurance in the middle of a real estate transaction. I have some tips and tricks which should help you win in the San Diego market.
 
