@@ -43,8 +43,8 @@ When you do business with my team and I, Shawn and Alex go through every single 
 
 If you are looking for more information and want to get in touch with Shawn or Alix, you can contact them with the following information:
 
-**Shawn Harris**<br>shawn@mytitleandescrow.com<br>760-271-8584
+**Shawn Harris**<br>shawn@mytitleandescrow.com<br>(760) 271-8584
 
-**Alix Kammeyer**<br>alix@mytitleandescrow.com<br>619-933-9621
+**Alix Kammeyer**<br>alix@mytitleandescrow.com<br>(619) 933-9621
 
 And as always, if you have any other questions for me or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
