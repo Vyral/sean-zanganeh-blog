@@ -49,4 +49,10 @@ This can be very difficult to obtain, so the first step before this comes to pla
 
 As is apparent, a lot goes into listing a home, especially if ownership issues are at play. It is critical to **get in touch with a title company before proceeding with your sale to make sure everything goes smoothly**.
 
+If you are looking for more information and want to get in touch with Shawn or Alix, you can contact them with the following information:
+
+**Shawn Harris**<br>shawn@mytitleandescrow.com<br>(760) 271-8584
+
+**Alix Kammeyer**<br>alix@mytitleandescrow.com<br>(619) 933-9621
+
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
