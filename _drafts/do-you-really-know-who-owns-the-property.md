@@ -21,7 +21,7 @@ youtube_code: xD5k78LANCQ
 
 {% include youtube.html %}
 
-The issue of ownership is very important when it comes time to list a home. Today we will discuss a few key scenarios about listing after ownership-related complications arise.
+<center>The issue of ownership is very important when it comes time to list a home. Today we will discuss a few key scenarios about listing after ownership-related complications arise.</center>
 
 Are you considering selling your home but don’t really know who owns the house? Well today I am joined by Shawn and Alix from Fidelity to discuss this important real estate quandary.
 
