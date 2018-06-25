@@ -21,7 +21,7 @@ youtube_code: zq1q6Yoot6w
 
 {% include youtube.html %}
 
-Can you convert a covered patio into additional living space? Today we’ll be discussing this topic with a local expert.
+<center>Can you convert a covered patio into additional living space? Today we’ll be discussing this topic with a local expert.</center>
 
 Do you have a patio or outdoor area that you want to convert into an additional living space? If so, we’ve got a few tips and tricks for how you can do so.
 
