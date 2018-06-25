@@ -38,3 +38,5 @@ Ian says it mostly comes down to meeting specific city or county zone ordinances
 If you have any other questions or would like more information, feel free to call Ian at (619) 579-0088 or email him at [ian@permitprosd.com](mailto:ian@permitprosd.com).
 
 And, as always, if you have any questions about real estate, feel free to reach out to us. We look forward to hearing from you soon.
+
+**Ian Scattergood**<br>Permit Pro Consultants<br>(619) 579-0088<br>[ian@permitprosd.com](mailto:ian@permitprosd.com)
