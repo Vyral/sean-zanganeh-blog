@@ -31,7 +31,7 @@ Joining us to help cover this topic is Ian Scattergood of Permit Pro Consultants
 
 So how can someone go about adding additional space to their home with an enclosed patio? According to Ian, the first thing to consider is whether the space meets the floor area ratio (or FAR) and the lot coverage. **Once this is confirmed, plans can be drawn, the permit can be issued, and the homeowner can proceed with converting the space** into additional square footage or a second rentable unit.
 
-It’s important to realize, though, that the process varies when it comes to older structures. But what must be done to ensure older structures can qualify as additional living space?
+It’s important to realize, though, that the process varies when it comes to older structures. What then must be done to ensure older structures can qualify as additional living space?
 
 {% include pullquote.html %}
 
