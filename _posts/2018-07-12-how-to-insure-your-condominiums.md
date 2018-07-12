@@ -9,8 +9,8 @@ excerpt: Are you confused about what type of condominium insurance you should pu
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/How+to+Insure+Your+Condominiums.mp4
 pullquote: >-
-  If you own or are looking to purchase a condominium, you should try to obtain
-  a copy of your CC&Rs and review the contract with your insurance agent.
+  Try to obtain a copy of your CC&Rs and review the contract with your insurance
+  agent.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
