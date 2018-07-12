@@ -2,10 +2,9 @@
 layout: post
 title: How to Insure Your Condominiums
 tags:
-  - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
+  - Home Buyer Tips
+  - Insurance
 excerpt: Are you confused about what type of condominium insurance you should purchase?
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/How+to+Insure+Your+Condominiums.mp4
@@ -19,7 +18,9 @@ youtube_code: 4NYklQkgdOU
 
 {% include youtube.html %}
 
-<center>Are you confused about what type of condominium insurance you should purchase?</center>
+<center><em>Are you confused about what type of condominium insurance you should purchase?</em></center>
+
+&nbsp;
 
 Are you interested in buying a condo but have no idea how to insure it? Condos are insured differently than homes and there are multiple ways we see them show up. Today Seth Arruda of Alta Vista Insurance Agency and I will look at the top three ways we see condos insured as well as the types of insurance that clients get.
 
