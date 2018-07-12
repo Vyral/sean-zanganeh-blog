@@ -19,7 +19,7 @@ youtube_code: 4NYklQkgdOU
 
 {% include youtube.html %}
 
-Are you confused about what type of condominium insurance you should purchase?
+<center>Are you confused about what type of condominium insurance you should purchase?</center>
 
 Are you interested in buying a condo but have no idea how to insure it? Condos are insured differently than homes and there are multiple ways we see them show up. Today Seth Arruda of Alta Vista Insurance Agency and I will look at the top three ways we see condos insured as well as the types of insurance that clients get.
 
