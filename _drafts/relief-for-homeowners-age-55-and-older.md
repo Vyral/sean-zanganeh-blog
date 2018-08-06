@@ -21,7 +21,7 @@ youtube_code: 6p38nVFL9vU
 
 {% include youtube.html %}
 
-Have you heard about Prop 60 & 90? If you’re 55 or older, you need to know about how it can help you save on your taxes.
+<center>Have you heard about Prop 60 & 90? If you’re 55 or older, you need to know about how it can help you save on your taxes.</center>
 
 Are you 55 or older and want to keep your tax bases? **If so, we’ve got some great information for you today**. Our lovely guests, Shawn and Alex from Fidelity Title, are joining us to talk about Prop 60 & 90 in California and why it’s important to you.
 
