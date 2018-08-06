@@ -28,8 +28,11 @@ Are you 55 or older and want to keep your tax bases? **If so, we’ve got some g
 **Prop 60 & 90 is a constitutional amendment in California that allows tax relief for a homeowner who is 55 years of age or older**. This allows them to transfer that tax base to another property. There are some requirements you need to meet in order to qualify for this. Here are the most important:
 
 1. Either you or your spouse has to be 55 or older.
+
 2. The home has to be your principal residence.
+
 3. When you’re making the transfer, it has to be to a property that is of equal or lower market value.
+
 4. You must find the replacement property within two years of selling your current home.
 
 {% include pullquote.html %}
