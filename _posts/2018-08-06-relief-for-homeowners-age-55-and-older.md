@@ -2,10 +2,8 @@
 layout: post
 title: Relief for Homeowners Age 55 and Older
 tags:
-  - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
+  - Home Owner Tips
 excerpt: >-
   Have you heard about Prop 60 & 90? If you’re 55 or older, you need to know
   about how it can help you save on your taxes.
