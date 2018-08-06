@@ -23,7 +23,7 @@ youtube_code: 6p38nVFL9vU
 
 &nbsp;
 
-Are you 55 or older and want to keep your tax bases? **If so, we’ve got some great information for you today**. Our lovely guests, Shawn and Alex from Fidelity Title, are joining us to talk about Prop 60 & 90 in California and why it’s important to you.
+Are you 55 or older and want to keep your tax bases? **If so, we’ve got some great information for you today**. Our lovely guests, Shawn and Alix from Fidelity Title, are joining us to talk about Prop 60 & 90 in California and why it’s important to you.
 
 **Prop 60 & 90 is a constitutional amendment in California that allows tax relief for a homeowner who is 55 years of age or older**. This allows them to transfer that tax base to another property. There are some requirements you need to meet in order to qualify for this. Here are the most important:
 
