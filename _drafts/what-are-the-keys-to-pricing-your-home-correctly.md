@@ -20,7 +20,9 @@ youtube_code: oVAcPvTZSIE
 
 {% include youtube.html %}
 
-<center>Pricing your home properly is one of the keys to getting it sold quickly and for top dollar. Here are a few reasons why.</center>
+<center><em>Pricing your home properly is one of the keys to getting it sold quickly and for top dollar. Here are a few reasons why.</em></center>
+
+<center>&nbsp;</center>
 
 If you’re thinking of listing your home in the near future but aren’t quite sure how to price it in this changing market, we’ve got some great tips to share with you.&nbsp;
 
