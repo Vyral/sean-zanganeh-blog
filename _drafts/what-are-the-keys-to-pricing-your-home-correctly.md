@@ -20,6 +20,8 @@ youtube_code: oVAcPvTZSIE
 
 {% include youtube.html %}
 
+Pricing your home properly is one of the keys to getting it sold quickly and for top dollar. Here are a few reasons why.
+
 If you’re thinking of listing your home in the near future but aren’t quite sure how to price it in this changing market, we’ve got some great tips to share with you.&nbsp;
 
 **At the beginning of this year, we had roughly 4,000 homes on the market.** At the peak of the summer market, we had somewhere between 7,500 and 8,000 homes. This is a large increase in inventory, which makes pricing your home that much more important.
