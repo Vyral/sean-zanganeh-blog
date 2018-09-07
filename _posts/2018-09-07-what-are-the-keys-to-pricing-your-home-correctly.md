@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/sean-zanganeh-sept-1-screen-shot-no-play-1.jpg
 youtube_code: oVAcPvTZSIE
 ---
 
@@ -24,7 +24,7 @@ youtube_code: oVAcPvTZSIE
 
 <center>&nbsp;</center>
 
-If you’re thinking of listing your home in the near future but aren’t quite sure how to price it in this changing market, we’ve got some great tips to share with you.&nbsp;
+If you’re thinking of listing your home in the near future but aren’t quite sure how to price it in this changing market, we’ve got some great tips to share with you. 
 
 **At the beginning of this year, we had roughly 4,000 homes on the market.** At the peak of the summer market, we had somewhere between 7,500 and 8,000 homes. This is a large increase in inventory, which makes pricing your home that much more important.
 
