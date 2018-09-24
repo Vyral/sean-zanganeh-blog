@@ -21,7 +21,9 @@ youtube_code: jg5WtJhZfIc
 
 {% include youtube.html %}
 
-<center>Today I want to explain how you can buy a home in your 20s to help you build wealth in your 30s.</center>
+<center><em>Today I want to explain how you can buy a home in your 20s to help you build wealth in your 30s.</em></center>
+
+&nbsp;
 
 So you're in your 20s and you want to buy your first home. Contrary to what has been said about millennials being unable to buy, they actually are because I’ve seen a lot of them preparing and doing what they need to do. To help you buy as well, I am here today to give you tips on how to buy a home before you turn 30.
 
