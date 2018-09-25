@@ -25,9 +25,9 @@ youtube_code: jg5WtJhZfIc
 
 &nbsp;
 
-So you're in your 20s and you want to buy your first home. Contrary to what has been said about millennials being unable to buy, they actually are because I’ve seen a lot of them preparing and doing what they need to do. To help you buy as well, I am here today to give you tips on how to buy a home before you turn 30.
+So you're in your 20s and you want to buy your first home. Contrary to what some believe, millennials are completely capable of purchasing homes by following a few key steps. So if you're a 20-something looking to buy a home before you turn 30, simply follow these tips.
 
-The first thing you want to do is **understand your finances**. What are you making now and what do you think you'll make in the next 24 months? Look at those numbers to find out when the right time is for you to buy. Many people think that you need to save a lot of money to buy a house, but this isn't entirely true. There are plenty of options to buy homes for as little as 1%, 3%, 5% or even 0% down, and we would love to help you understand those options.
+The first thing you need to do is **understand your finances**. What are you making now and what do you think you'll make in the next 24 months? Look at those numbers to find out when the right time is for you to buy. Many people think that you need to save a lot of money to buy a house, but this isn't entirely true. There are plenty of options to buy homes for as little as 5%, 3%, 1% or even 0% down, and we would love to help you understand those options.
 
 The next thing to do is **meet with a lender**. Too many people have no idea that they qualify for a home and have been paying rent because they don't know any better. Actually sitting down at a meeting with a lender to discuss your options is a huge benefit because then you know exactly what you qualify for. If you don't like the amount, you can also set up a goal with the lender to achieve so you can buy something later.
 
