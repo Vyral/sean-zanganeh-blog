@@ -15,6 +15,9 @@ use_youtube_image: false
 youtube_alternate_image:
 youtube_code: uieM18rZdHY
 ---
+
 {% include youtube.html %}
+
+&nbsp;
 
 {% include pullquote.html %}
