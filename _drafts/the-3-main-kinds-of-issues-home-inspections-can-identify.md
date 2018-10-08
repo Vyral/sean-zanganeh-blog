@@ -19,7 +19,7 @@ youtube_code: nCivfBRzlpI
 
 {% include youtube.html %}
 
-There are three primary kinds of issues covered in the home inspection process. Let’s review what they are.
+<center>There are three primary kinds of issues covered in the home inspection process. Let’s review what they are.</center>
 
 Home inspections are an essential step in the real estate process. Assuming no major issues are uncovered, they can provide buyers with peace of mind before closing. But buyers about to go through this process, themselves, are often curious about what to expect.
 
