@@ -23,7 +23,7 @@ youtube_code: nCivfBRzlpI
 
 &nbsp;
 
-]Home inspections are an essential step in the real estate process. Assuming no major issues are uncovered, they can provide buyers with peace of mind before closing. But buyers about to go through this process, themselves, are often curious about what to expect.
+Home inspections are an essential step in the real estate process. Assuming no major issues are uncovered, they can provide buyers with peace of mind before closing. But buyers who are about to go through this process are often curious about what to expect.
 
 In general terms, there are three primary kinds of issues home inspections are meant to identify, and we’ll be reviewing each of them today.
 
