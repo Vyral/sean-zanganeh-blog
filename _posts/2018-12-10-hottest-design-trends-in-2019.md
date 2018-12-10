@@ -18,9 +18,11 @@ youtube_code: D6veZYhUXJc
 
 {% include youtube.html %}
 
-<center>Are you looking for the hottest design trends and homes going into 2019? Well, you’re in luck—today, Pramiti Bhargava from Bluegrape Staging is here to provide you with the latest details you need to know.</center>
+<center><em>Are you looking for the hottest design trends and homes going into 2019? Well, you&rsquo;re in luck&mdash;today, Pramiti Bhargava from Bluegrape Staging is here to provide you with the latest details you need to know.</em></center>
 
-Today we are honored and fortunate to have one of our wonderful staging and design partners with us: Pramiti Bhargava, owner and co-founder of Bluegrape Staging, a company that focuses on the business of real estate staging. Pramiti is here to tell us about the hottest design trends to expect for 2019.&nbsp;
+&nbsp;
+
+Today we are honored and fortunate to have one of our wonderful staging and design partners with us: Pramiti Bhargava, owner and co-founder of Bluegrape Staging, a company that focuses on the business of real estate staging. Pramiti is here to tell us about the hottest design trends to expect for 2019.
 
 **1. Bolder options in tile and kitchen designs**. So far, monochromatic tiles in colors like white have been popular, but Pramiti believes that in 2019, we’ll see bolder choices in terms of graphics. With regards to kitchen styles, we have also been accustomed to monochromatic choices, like all-white and all-gray palettes. 2019 will show us more two-toned drama, such as with lighter countertops and darker cabinetry.
 
