@@ -18,7 +18,7 @@ youtube_code: D6veZYhUXJc
 
 {% include youtube.html %}
 
-Are you looking for the hottest design trends and homes going into 2019? Well, you’re in luck—today, Pramiti Bhargava from Bluegrape Staging is here to provide you with the latest details you need to know.
+<center>Are you looking for the hottest design trends and homes going into 2019? Well, you’re in luck—today, Pramiti Bhargava from Bluegrape Staging is here to provide you with the latest details you need to know.</center>
 
 Today we are honored and fortunate to have one of our wonderful staging and design partners with us: Pramiti Bhargava, owner and co-founder of Bluegrape Staging, a company that focuses on the business of real estate staging. Pramiti is here to tell us about the hottest design trends to expect for 2019.&nbsp;
 
