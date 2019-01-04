@@ -21,6 +21,8 @@ youtube_code: rNrKvhCj1hU
 
 <center><em>Which four color palettes are about to dominate design trends in the new year? Find out in today&rsquo;s message.</em></center>
 
+&nbsp;
+
 Design expert Pramiti Bhargava of BlueGrape Staging has joined us again today to discuss what color trends we can expect in the new year.
 
 **There are four main palettes Pramiti predicts will take the place of the greys and whites that dominated designs in 2018**.
