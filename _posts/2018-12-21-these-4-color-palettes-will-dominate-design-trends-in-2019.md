@@ -21,8 +21,6 @@ youtube_code: rNrKvhCj1hU
 
 <center><em>Which four color palettes are about to dominate design trends in the new year? Find out in today&rsquo;s message.</em></center>
 
-&nbsp;
-
 Design expert Pramiti Bhargava of BlueGrape Staging has joined us again today to discuss what color trends we can expect in the new year.
 
 **There are four main palettes Pramiti predicts will take the place of the greys and whites that dominated designs in 2018**.
@@ -42,3 +40,5 @@ Ultimately, there are a lot of exciting trends on the horizon. It will be intere
 **To learn more about these trends, or about home design in general, visit [bluegrapestaging.com](https://www.bluegrapestaging.com/){: target="_blank"}**.
 
 And, as always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+
+**Pramiti Bhargava**<br>BlueGrape Staging<br>7485 Trade St. B<br>San Diego, CA 92121<br>(858) 652-3007<br>[pramiti@bluegrape.us](mailto:pramiti@bluegrape.us?subject=Re%3A%202019%20Color%20Palettes)<br>[bluegrapestaging.com](https://www.bluegrapestaging.com/){: target="_blank"}
