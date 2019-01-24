@@ -21,8 +21,6 @@ youtube_code: oz78aWVTuX4
 
 <center><em>Staging a home is important, and here&rsquo;s how to do it.</em></center>
 
-&nbsp;
-
 We’re here today at the **BlueGrape Staging** warehouse facility, where they have all kinds of amazing things that are used to help homes come to life. We’re joined by owner and design expert **Pramiti Bhargava**, who will help us understand why home staging is so important for making a top-dollar sale.
 
 Every home needs to be presented correctly, whether it’s occupied or vacant. Every buyer who walks in wants to have a connection with the house before they make an offer—**they want to see themselves living there**. You need to depersonalize your home to give a blank slate to potential buyers. For example, pictures of your family can distract buyers from viewing the actual features of a home.
@@ -36,3 +34,5 @@ Updating your decor and being on-trend helps your home fetch the best price. Whe
 As we’re seeing more inventory in our market, it’s more important than ever to make sure your home is properly staged. These tips will help you stand out from the crowd and ensure you sell your home for top dollar. To get a staging consultation, reach out to Pramiti through her website at **[BlueGrapeStaging.com](https://www.bluegrapestaging.com/){: target="_blank"}** or call **(858) 652-3007**.
 
 If you have any other questions or need more information, feel free to reach out to us. We look forward to hearing from you soon.
+
+**Pramiti Bhargava**<br>BlueGrape Staging<br>7485 Trade St. B<br>San Diego, CA 92121<br>(858) 652-3007<br>[pramiti@bluegrape.us](mailto:pramiti@bluegrape.us?subject=Re%3A%20Home%20Staging)<br>[bluegrapestaging.com](https://www.bluegrapestaging.com/){: target="_blank"}
