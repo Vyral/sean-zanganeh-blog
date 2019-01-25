@@ -21,6 +21,8 @@ youtube_code: oz78aWVTuX4
 
 <center><em>Staging a home is important, and here&rsquo;s how to do it.</em></center>
 
+&nbsp;
+
 We’re here today at the **BlueGrape Staging** warehouse facility, where they have all kinds of amazing things that are used to help homes come to life. We’re joined by owner and design expert **Pramiti Bhargava**, who will help us understand why home staging is so important for making a top-dollar sale.
 
 Every home needs to be presented correctly, whether it’s occupied or vacant. Every buyer who walks in wants to have a connection with the house before they make an offer—**they want to see themselves living there**. You need to depersonalize your home to give a blank slate to potential buyers. For example, pictures of your family can distract buyers from viewing the actual features of a home.
