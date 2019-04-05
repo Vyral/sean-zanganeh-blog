@@ -22,7 +22,9 @@ youtube_code: 21xcB0VTDRg
 
 {% include youtube.html %}
 
-<center>There are three main trends to take note of if you plan on buying or selling soon in our San Diego market, and I’d like to share these trends with you today.</center>
+<center><em>There are three main trends to take note of if you plan on buying or selling soon in our San Diego market, and I&rsquo;d like to share these trends with you today.</em></center>
+
+&nbsp;
 
 Today more than ever, people approach me to ask about the state of our San Diego market. To answer this common question, I’d like to share three trends I’ve noticed this spring:&nbsp;
 
