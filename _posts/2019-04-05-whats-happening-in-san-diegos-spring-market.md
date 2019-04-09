@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Happening This Spring in Our San Diego Market?
+title: What's Happening in San Diego's Spring Market?
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -32,7 +32,7 @@ Today more than ever, people approach me to ask about the state of our San Diego
 
 **2. Inventory is up**. There are almost 20% more homes listed on the market than we had at this time in 2018. This gives buyers a greater level of choice, meaning you don’t have to settle for a mediocre (yet overpriced) home. Sellers, meanwhile, must understand that appropriate pricing will be key in light of this trend.&nbsp;
 
-**3. Appreciation is slowing down**. We’ve seen double and high single-digit appreciation rates for some time now, but it’s starting to look as though 2019 will see prices rise much less dramatically. What does this mean for you? If you’re a buyer, it means that there will be more opportunities for leverage in the market. For sellers, it means that the days of receiving a dozen or more offers on a listing may soon be over. It doesn’t mean, though, that you don’t still have the chance to earn top dollar. With the right marketing and the right agent by your side, you can still get a great deal.
+**3. Appreciation is slowing down**. We’ve seen high single- and double-digit appreciation rates for some time now, but it’s starting to look as though 2019 will see prices rise much less dramatically. What does this mean for you? If you’re a buyer, it means that there will be more opportunities for leverage in the market. For sellers, it means that the days of receiving a dozen or more offers on a listing may soon be over. It doesn’t mean, though, that you don’t still have the chance to earn top dollar. With the right marketing and the right agent by your side, you can still get a great deal.
 
 {% include pullquote.html %}
 
