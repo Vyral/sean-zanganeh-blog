@@ -9,7 +9,8 @@ excerpt: >-
   There are three main trends to take note of if you plan on buying or selling
   soon in our San Diego market, and I’d like to share these trends with you
   today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/San+Diego%2C+CA+Real+Estate+-+What's+Happening+in+San+Diego's+Spring+Market_.mp4
 pullquote: >-
   The bottom line is that buyers and sellers alike have a window of opportunity
   before them right now, but one that won’t last forever.
@@ -24,18 +25,18 @@ youtube_code: 21xcB0VTDRg
 
 <center><em>There are three main trends to take note of if you plan on buying or selling soon in our San Diego market, and I&rsquo;d like to share these trends with you today.</em></center>
 
-&nbsp;
+ 
 
-Today more than ever, people approach me to ask about the state of our San Diego market. To answer this common question, I’d like to share three trends I’ve noticed this spring:&nbsp;
+Today more than ever, people approach me to ask about the state of our San Diego market. To answer this common question, I’d like to share three trends I’ve noticed this spring: 
 
-**1. Interest rates have dropped**. Now that interest rates have dipped down to the mid-4% range, buyers once again have the opportunity to enjoy historically low rates. This is exciting for sellers, too, as this boost in affordability has also fostered increased demand.&nbsp;
+**1. Interest rates have dropped**. Now that interest rates have dipped down to the mid-4% range, buyers once again have the opportunity to enjoy historically low rates. This is exciting for sellers, too, as this boost in affordability has also fostered increased demand. 
 
-**2. Inventory is up**. There are almost 20% more homes listed on the market than we had at this time in 2018. This gives buyers a greater level of choice, meaning you don’t have to settle for a mediocre (yet overpriced) home. Sellers, meanwhile, must understand that appropriate pricing will be key in light of this trend.&nbsp;
+**2. Inventory is up**. There are almost 20% more homes listed on the market than we had at this time in 2018. This gives buyers a greater level of choice, meaning you don’t have to settle for a mediocre (yet overpriced) home. Sellers, meanwhile, must understand that appropriate pricing will be key in light of this trend. 
 
 **3. Appreciation is slowing down**. We’ve seen high single- and double-digit appreciation rates for some time now, but it’s starting to look as though 2019 will see prices rise much less dramatically. What does this mean for you? If you’re a buyer, it means that there will be more opportunities for leverage in the market. For sellers, it means that the days of receiving a dozen or more offers on a listing may soon be over. It doesn’t mean, though, that you don’t still have the chance to earn top dollar. With the right marketing and the right agent by your side, you can still get a great deal.
 
 {% include pullquote.html %}
 
-The bottom line is that buyers and sellers alike have a window of opportunity before them right now, but one that won’t last forever.&nbsp;
+The bottom line is that buyers and sellers alike have a window of opportunity before them right now, but one that won’t last forever. 
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
