@@ -34,7 +34,7 @@ First, make sure it gives a great first impression. Curb appeal goes a long way 
 
 On the inside, consider adding a fresh coat of paint—it’s a very minimal expense that can yield thousands of dollars on your return, and you don’t necessarily have to paint the entire interior. Also, make sure your faucets and sinks are clean, and if they need to be replaced, replace them. Low-cost items like these can also yield a large return when it comes time to sell.&nbsp;
 
-Next, look at your electrical fixtures. Installing just a few ceiling-mount lights can dramatically change the look and feel of your home.
+Next, look at your electrical fixtures. Installing just a few ceiling-mounted lights can dramatically change the look and feel of your home.
 
 {% include pullquote.html %}
 
