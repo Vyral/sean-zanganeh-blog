@@ -20,7 +20,9 @@ youtube_code: Qy39uVdl9sM
 
 {% include youtube.html %}
 
-<center> To make your home sell quickly and for top dollar once it hits the market, you need to focus on preparation, price, and the pro you use.</center>
+<center><em>To make your home sell quickly and for top dollar once it hits the market, you need to focus on preparation, price, and the pro you use.</em></center>
+
+&nbsp;
 
 What’s the key to winning when it comes time to sell? In other words, how can you sell for the most money in the shortest amount of time?
 
