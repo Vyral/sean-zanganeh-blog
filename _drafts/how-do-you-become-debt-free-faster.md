@@ -20,7 +20,7 @@ youtube_code: qf_t7gPSu1o
 
 {% include youtube.html %}
 
-Are you looking to slay the mortgage monster by paying your mortgage down faster so you can own your home free and clear? Well, you’re in luck\!
+<center>Are you looking to slay the mortgage monster by paying your mortgage down faster so you can own your home free and clear? Well, you’re in luck\!</center>
 
 How can you pay down your mortgage faster so that you can own your home debt-free? Today I’ll share two great ideas you should look into when it comes time to purchase your next home or refinance your current one:
 
