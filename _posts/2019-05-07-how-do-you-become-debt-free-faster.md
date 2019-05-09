@@ -26,7 +26,7 @@ youtube_code: qf_t7gPSu1o
 
 How can you pay down your mortgage faster so that you can own your home debt-free? Today I’ll share two great ideas you should look into when it comes time to purchase your next home or refinance your current one:
 
-**1\. Make one extra payment every year**. Did you know that by making extra payment on your 30-year mortgage every single year, you could actually pay off your mortgage seven years faster? If you do this, you’ll also end up paying a lot less in interest over that time.
+**1\. Make one extra payment every year**. Did you know that by making one extra payment on your 30-year mortgage every single year, you could actually pay off your mortgage seven years faster? If you do this, you’ll also end up paying a lot less in interest over that time.
 
 {% include pullquote.html %}
 
