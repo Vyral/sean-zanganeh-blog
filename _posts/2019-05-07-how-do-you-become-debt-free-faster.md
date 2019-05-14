@@ -3,7 +3,7 @@ layout: post
 title: How Do You Become Debt-Free Faster?
 tags:
   - Real Estate
-  - Buyer Tips
+  - Home Owner Tips
 excerpt: >-
   Are you looking to slay the mortgage monster by paying your mortgage down
   faster so you can own your home free and clear? Well, you’re in luck!
