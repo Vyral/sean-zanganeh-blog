@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-7---sean-zanganeh---yt.jpg
-youtube_code: qf_t7gPSu1o
+youtube_code: 7SIWPNCtHUM
 ---
 
 {% include youtube.html %}
