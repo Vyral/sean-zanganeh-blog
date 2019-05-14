@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Are you looking to slay the mortgage monster by paying your mortgage down
   faster so you can own your home free and clear? Well, you’re in luck!
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/San+Diego%2C+CA+Real+Estate+-+How+Do+You+Become+Debt-Free+Faster_.mp4
 pullquote: >-
   Did you know that on a $500,000 house, you could save almost $160,000 on
   interest payments by switching from a 30-year to a 15-year mortgage?
