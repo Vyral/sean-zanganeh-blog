@@ -18,7 +18,7 @@ youtube_code: ZOpviZY6GUo
 
 {% include youtube.html %}
 
-If you’re a homebuyer, there are several closing costs you need to be prepared for in addition to your down payment.
+<center>If you’re a homebuyer, there are several closing costs you need to be prepared for in addition to your down payment.</center>
 
 When it comes time to close on your next property, there are five closing costs you need to be prepared for:&nbsp;
 
