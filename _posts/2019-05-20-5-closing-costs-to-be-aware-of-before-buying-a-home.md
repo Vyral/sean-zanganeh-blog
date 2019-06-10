@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re a homebuyer, there are several closing costs you need to be prepared
   for in addition to your down payment.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/San+Diego%2C+CA+Real+Estate+-+5+Closing+Costs+to+Be+Aware+of+Before+Buying+a+Home.mp4
 pullquote: Various lender fees are built into all mortgage loans.
 enclosure_type: video/mp4
 enclosure_time:
