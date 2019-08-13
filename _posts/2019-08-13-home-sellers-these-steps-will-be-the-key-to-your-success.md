@@ -20,7 +20,9 @@ youtube_code: ytAevCQDOKw
 
 {% include youtube.html %}
 
-<center>What does it take to succeed in today’s San Diego area market? Find out with this quick message.</center>
+<center><em>What does it take to succeed in today&rsquo;s San Diego area market? Find out with this quick message.</em></center>
+
+&nbsp;
 
 A lot of people are wondering what’s happening right now in our San Diego area market and how they can make the most of these current conditions, so today, we’ll get to the bottom of things with a quick update.
 
