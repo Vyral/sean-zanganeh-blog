@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What does it take to succeed in today’s San Diego area market? Find out with
   this quick message.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/Home+Sellers-+These+Steps+Will+Be+the+Key+to+Your+Success.mp4
 pullquote: >-
   The most important step you can take to secure your success as a seller is to
   hire an experienced agent.
