@@ -20,7 +20,7 @@ youtube_code: G9TX4u-Bha0
 
 {% include youtube.html %}
 
-If you’ve been wondering whether now is the time to buy, today’s message is for you.
+<center>If you’ve been wondering whether now is the time to buy, today’s message is for you.</center>
 
 If you’re thinking of buying a home this year but aren’t sure whether the timing is right, this message will help you decide whether moving forward with a home search is right for you.
 
