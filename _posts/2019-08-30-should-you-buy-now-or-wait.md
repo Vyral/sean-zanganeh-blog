@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’ve been wondering whether now is the time to buy, today’s message is
   for you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/Should+You+Buy+Now+or+Wait_.mp4
 pullquote: >-
   Rates are low, homes are affordable, and there are plenty of great properties
   available if you know where to look.
