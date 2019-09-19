@@ -20,7 +20,9 @@ youtube_code: 6rcnsXA2MPg
 
 {% include youtube.html %}
 
-<center>In 2019, a late-year sale is actually a great idea, and today we’ll explain why.</center>
+<center><em>In 2019, a late-year sale is actually a great idea, and today we&rsquo;ll explain why.</em></center>
+
+&nbsp;
 
 If you’ve been thinking of selling your home this year but fear it may be too late, think again. The home-selling season is far from over. **In fact, selling later in the year in 2019 may actually work to your advantage**.
 
