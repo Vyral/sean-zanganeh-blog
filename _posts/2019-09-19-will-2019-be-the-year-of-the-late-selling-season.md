@@ -5,9 +5,10 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: >-
-  In 2019, a late-year sale is actually a great idea, and today we’ll explain
+  In 2019, a late-year sale is actually a great idea, and today I’ll explain
   why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/Will+2019+Be+the+Year+of+the+Late+Selling+Season_.mp4
 pullquote: >-
   The bottom line is that anyone thinking of selling should think about entering
   the market soon.
@@ -20,7 +21,7 @@ youtube_code: 6rcnsXA2MPg
 
 {% include youtube.html %}
 
-<center><em>In 2019, a late-year sale is actually a great idea, and today we&rsquo;ll explain why.</em></center>
+<center><em>In 2019, a late-year sale is actually a great idea, and today I&rsquo;ll explain why.</em></center>
 
 &nbsp;
 
