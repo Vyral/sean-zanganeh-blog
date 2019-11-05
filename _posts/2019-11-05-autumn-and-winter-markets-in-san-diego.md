@@ -4,7 +4,9 @@ title: Autumn and Winter Markets in San Diego
 tags:
   - Market Update
   - Real Estate
-excerpt:
+excerpt: >-
+  Today I’m sharing all the newest information about our San Diego real estate
+  markets.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -16,7 +18,9 @@ youtube_code: Erb6HlofsDs
 
 {% include youtube.html %}
 
-<center>Today I’m sharing all the newest information about our San Diego real estate markets.</center>
+<center><em>Today I&rsquo;m sharing all the newest information about our San Diego real estate markets.</em></center>
+
+&nbsp;
 
 As you may have heard recently, the market is broadly seeing a modest increase from last year to this year. We’re noticing open houses are exceedingly busy. In fact, we welcomed over 200 people at our last open house\! We’re seeing a lot of energy return to the market, and I foresee this will continue through the winter months as long as interest rates stay where they are.
 
