@@ -26,14 +26,14 @@ As you may have heard recently, the market is broadly seeing a modest increase f
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
-0:20: Why we’re seeing an increase in the market
+0:20 - Why we’re seeing an increase in the market
 
-1:35: Why homeowners are investing more money into their homes
+1:35 - Why homeowners are investing more money into their homes
 
-2:40: Why many need to sell their home before they buy another
+2:40 - Why many need to sell their home before they buy another
 
-4:05: Investing properly
+4:05 - Investing properly
 
-5:35: Wrap up
+5:35 - Wrap up
 
 If you have any questions about real estate, pick up the phone and call me, or send me an email, I would be happy to help you.
