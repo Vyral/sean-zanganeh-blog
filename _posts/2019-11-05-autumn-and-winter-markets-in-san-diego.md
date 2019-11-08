@@ -34,6 +34,6 @@ As you may have heard recently, the market is broadly seeing a modest increase f
 
 4:05 - Investing properly
 
-5:35 - Wrap up
+5:35 - Wrapping up
 
 If you have any questions about real estate, pick up the phone and call me, or send me an email, I would be happy to help you.
