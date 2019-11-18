@@ -36,4 +36,4 @@ As you may have heard recently, the market is broadly seeing a modest increase f
 
 5:35 - Wrapping up
 
-If you have any questions about real estate, pick up the phone and call me or send me an email. I would be happy to help you.
+If you have any questions about real estate, pick up the phone and call me at (858) 345-9995 or send me an email. I would be happy to help you.
