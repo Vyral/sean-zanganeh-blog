@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’m sharing all the newest information about our San Diego real estate
   markets.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/Autumn+and+Winter+Markets+in+San+Diego.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
