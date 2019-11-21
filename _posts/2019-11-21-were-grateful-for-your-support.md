@@ -15,9 +15,9 @@ youtube_code: IyU6A94k7oU
 
 {% include youtube.html %}
 
-*Thank you for letting us help you achieve your real estate goals.*
+<center><em>Thank you for letting us help you achieve your real estate goals.</em></center>
 
-For today’s video, I want to thank you for continuing to support my team and me year after year as we grow in our real estate journey. For subscribing to our video blog and referring wonderful clients to us, we’re expressing our gratitude to you.
+<br>For today’s video, I want to thank you for continuing to support my team and me year after year as we grow in our real estate journey. For subscribing to our video blog and referring wonderful clients to us, we’re expressing our gratitude to you.
 
 I know there are a ton of options out there to help you reach your real estate goals, so it means a lot that you trust us to do this. This year has been extraordinary for us, and we’re excited for 2020, but as we wind down for the holidays, **we’re thankful for our friends, family, and the opportunities we’ve been given**. On that note, I’ve invited a few team members to join me today to share what they’re grateful for.
 
