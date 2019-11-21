@@ -15,7 +15,7 @@ youtube_code: IyU6A94k7oU
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Thank you for letting us help you achieve your real estate goals.</em></p>
+*Thank you for letting us help you achieve your real estate goals.*
 
 For today’s video, I want to thank you for continuing to support my team and me year after year as we grow in our real estate journey. For subscribing to our video blog and referring wonderful clients to us, we’re expressing our gratitude to you.
 
