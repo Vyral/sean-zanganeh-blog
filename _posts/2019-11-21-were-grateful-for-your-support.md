@@ -4,7 +4,8 @@ title: We’re Grateful for Your Support
 tags:
   - Real Estate
 excerpt: Thank you for letting us help you achieve your real estate goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/Were+Grateful+for+Your+Support.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
