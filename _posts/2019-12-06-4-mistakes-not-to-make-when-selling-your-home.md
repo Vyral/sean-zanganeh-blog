@@ -18,7 +18,7 @@ youtube_code: swSkMxC7yrw
 
 {% include youtube.html %}
 
-<center><em>I’m sharing four mistakes home sellers often make when selling their homes. Don’t do these four things!</em></center>
+<center><em>I&rsquo;m sharing four mistakes home sellers often make when selling their homes. Don&rsquo;t do these four things!</em></center>
 
 <br>Today we’re discussing the four massive mistakes we see home sellers make when it comes time to sell their home:
 
