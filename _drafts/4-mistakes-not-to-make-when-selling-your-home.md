@@ -18,7 +18,9 @@ youtube_code: swSkMxC7yrw
 
 {% include youtube.html %}
 
-Today we’re discussing the four massive mistakes we see home sellers make when it comes time to sell their home:
+<center><em>I’m sharing four mistakes home sellers often make when selling their homes. Don’t do these four things!</em></center>
+
+<br>Today we’re discussing the four massive mistakes we see home sellers make when it comes time to sell their home:
 
 **1\. Assuming you will get top dollar**. If you assume you will receive top dollar for your home because your neighbor did, this isn’t necessarily the case. Every home is unique; whether it’s the finishes, the lot, the view, or the condition of the home, they all make a substantial difference in the value. Also, every home requires a slightly different technique to sell it, needs distinct marketing. The key to receiving top dollar for your home is knowing who your buyer is and knowing where to price it.
 
