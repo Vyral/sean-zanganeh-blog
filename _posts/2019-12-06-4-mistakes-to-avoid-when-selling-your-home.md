@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Mistakes Not to Make When Selling Your Home
+title: 4 Mistakes to Avoid When Selling Your Home
 tags:
   - Real Estate
   - Home Seller Tips
