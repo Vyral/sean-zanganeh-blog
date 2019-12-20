@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I’m sharing four mistakes home sellers often make when selling their homes.
   Don’t do these four things!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/4+Mistakes+to+Avoid+When+Selling+Your+Home.mp4
 pullquote: 'Price is important, but it isn’t everything.'
 enclosure_type: video/mp4
 enclosure_time:
