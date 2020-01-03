@@ -18,7 +18,9 @@ youtube_code: wa6w4q7pkiI
 
 {% include youtube.html %}
 
-Are you looking to buy a home or condo in a community with a homeowner’s association? When we’re showing houses, we’re frequently asked about the pros and cons of living in an HOA community. Today we’re going to go over the four main things to look into when you’re considering a home in an HOA neighborhood.
+<center><em>I’m sharing the four main things you should consider when thinking about moving into an HOA neighborhood.</em></center>
+
+<br>Are you looking to buy a home or condo in a community with a homeowner’s association? When we’re showing houses, we’re frequently asked about the pros and cons of living in an HOA community. Today we’re going to go over the four main things to look into when you’re considering a home in an HOA neighborhood.
 
 **1\. Rules and regulations**. This is the most essential point in this list. These can be anything from what kind of pets you can own, the rental restrictions, what colors you can paint your house, and so on. This is the first thing to consider when buying in an HOA community.
 
