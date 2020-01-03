@@ -18,7 +18,7 @@ youtube_code: wa6w4q7pkiI
 
 {% include youtube.html %}
 
-<center><em>I’m sharing the four main things you should consider when thinking about moving into an HOA neighborhood.</em></center>
+<center><em>I&rsquo;m sharing the four main things you should consider when thinking about moving into an HOA neighborhood.</em></center>
 
 <br>Are you looking to buy a home or condo in a community with a homeowner’s association? When we’re showing houses, we’re frequently asked about the pros and cons of living in an HOA community. Today we’re going to go over the four main things to look into when you’re considering a home in an HOA neighborhood.
 
