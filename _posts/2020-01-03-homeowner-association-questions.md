@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I’m sharing the four main things you should consider when thinking about
   moving into an HOA neighborhood.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/Homeowner+Association+Questions.mp4
 pullquote: Take a look at the HOA’s financial stability.
 enclosure_type: video/mp4
 enclosure_time:
