@@ -18,7 +18,9 @@ youtube_code: z8iZMoACfMo
 
 {% include youtube.html %}
 
-Are you considering purchasing a home this year but have one to sell first? You’re in luck, today I’m discussing how to be a contingent buyer. Being a contingent buyer means that an offer on a new house has been made and the seller has accepted it, but that the final sale is contingent upon certain criteria that have to be met.
+<center><em>I’m sharing three ways you can be a contingent homebuyer.</em></center>
+
+<br>Are you considering purchasing a home this year but have one to sell first? You’re in luck, today I’m discussing how to be a contingent buyer. Being a contingent buyer means that an offer on a new house has been made and the seller has accepted it, but that the final sale is contingent upon certain criteria that have to be met.
 
 **Here are the top three ways to become a contingent buyer:**
 
