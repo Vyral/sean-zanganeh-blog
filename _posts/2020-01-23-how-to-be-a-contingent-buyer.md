@@ -20,7 +20,7 @@ youtube_code: z8iZMoACfMo
 
 <center><em>I&rsquo;m sharing three ways you can be a contingent homebuyer.</em></center>
 
-<br>Are you considering purchasing a home this year but have one to sell first? You’re in luck, today I’m discussing how to be a contingent buyer. Being a contingent buyer means that an offer on a new house has been made and the seller has accepted it, but that the final sale is contingent upon certain criteria that have to be met.
+<br>Are you considering purchasing a home this year but have one to sell first? You’re in luck—today I’m discussing how to be a contingent buyer. Being a contingent buyer means that an offer on a new house has been made and the seller has accepted it, but that the final sale is contingent upon certain criteria that have to be met.
 
 **Here are the top three ways to become a contingent buyer:**
 
@@ -32,6 +32,6 @@ youtube_code: z8iZMoACfMo
 
 **3\. Store your things after you sell**. This is a short-term situation where you would sell your property, move out, (and people like that you’re able to do this quickly), your items will be put into storage, we would find a short-term rental for you, and then you buy and move into your next home. This allows you to make non-contingent house purchases. You’ll win by getting a better deal.
 
-Not every option is right for everyone. Every person and situation is different. We would build a custom plan with how the strategy would work for you, then we work from the plan. This is the ideal way to be successful as a contingent buyer.
+Not every option is right for everyone. Every person and situation is different. We would build a custom plan explaining how the strategy would work for you, then we'd work from that plan. This is the ideal way to be successful as a contingent buyer.
 
 If we can help you sell your home and buy another this year, we would love for you to reach out to us by phone or email. We look forward to assisting you.
