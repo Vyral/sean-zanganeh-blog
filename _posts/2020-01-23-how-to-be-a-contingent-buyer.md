@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: I’m sharing three ways you can be a contingent homebuyer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/How+to+Be+a+Contingent+Buyer.mp4
 pullquote: Not every option is right for everyone.
 enclosure_type: video/mp4
 enclosure_time:
