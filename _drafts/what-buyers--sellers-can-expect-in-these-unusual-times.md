@@ -20,7 +20,9 @@ youtube_code: RuzDv8xwtbo
 
 {% include youtube.html %}
 
-If you’re a potential buyer or seller, or are in the middle of a real estate transaction right now, uncertainty lingers. The good news, however, is that the real estate business, with all of its associated industries, is still moving along. Tawnie Vargas of Oakwood Escrow joined me to discuss the need for patience—there will be delays—and the importance of understanding that this situation is nowhere near the 2008 crisis.
+<center><em>Here’s my Monday, March 30, conversation with Tawnie Vargas of Oakwood Escrow on the nature of changes to our respective industries.</em></center>
+
+<br>If you’re a potential buyer or seller, or are in the middle of a real estate transaction right now, uncertainty lingers. The good news, however, is that the real estate business, with all of its associated industries, is still moving along. Tawnie Vargas of Oakwood Escrow joined me to discuss the need for patience—there will be delays—and the importance of understanding that this situation is nowhere near the 2008 crisis.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
 
