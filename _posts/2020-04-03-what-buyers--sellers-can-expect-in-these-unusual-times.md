@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Here’s my Monday, March 30, conversation with Tawnie Vargas of Oakwood Escrow
   on the nature of changes to our respective industries.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/What+Buyers+%26+Sellers+Can+Expect+in+These+Unusual+Times.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
