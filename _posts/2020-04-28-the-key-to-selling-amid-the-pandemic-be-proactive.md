@@ -19,7 +19,7 @@ youtube_code: 9KP_CPUGGyg
 
 {% include youtube.html %}
 
-<center><em>COVID-19 has flipped our world upside down, but the real estate industry is resilient. Here’s how we’re helping sellers maximize opportunities.</em></center>
+<center><em>COVID-19 has flipped our world upside down, but the real estate industry is resilient. Here&rsquo;s how we&rsquo;re helping sellers maximize opportunities.</em></center>
 
 <br>We’re monitoring the MLS and seeing homes in our San Diego market go into escrow every single day—remarkably close to what we’d see under normal conditions. Here’s even more good news: If your home is in a low inventory area or a highly sought-after price point, we’re seeing those prices increase.
 
