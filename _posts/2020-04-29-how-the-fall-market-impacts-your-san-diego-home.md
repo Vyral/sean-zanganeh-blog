@@ -4,10 +4,11 @@ title: How the Fall Market Impacts Your San Diego Home
 tags:
   - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
-excerpt: "We're seeing some interesting trends in the fall real estate market. What does this mean for you? What does it mean for our market moving forward?"
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh+Examining+Fall+Real+Estate+Market+Trends.mp4'
+excerpt: >-
+  We're seeing some interesting trends in the fall real estate market. What does
+  this mean for you? What does it mean for our market moving forward?
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Sean+Zanganeh+Examining+Fall+Real+Estate+Market+Trends.mp4
 pullquote: Smart real estate decisions are keeping our market moving forward.
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: UOhnf8DCwMA
 ---
-
 
 {% include youtube.html %}
 
