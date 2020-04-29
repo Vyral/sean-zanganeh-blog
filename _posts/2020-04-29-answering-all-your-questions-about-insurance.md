@@ -5,7 +5,6 @@ tags:
   - Market Update
   - Real Estate
   - Home Owner Tips
-  - Insurance
 excerpt: >-
   Seth Arruda of Alta Vista Insurance joins me to talk about insurance options
   to consider when purchasing a home.
@@ -31,7 +30,7 @@ I am joined by Seth Arruda to talk to you about looking for insurance in the mid
 
 So, what things must a consumer know to make an educated choice about insurance coverage? Let’s take a look at the five questions consumers should ask themselves.
 
-**1. What is covered?<br>2. How much coverage do you need?<br>3. How do you insure your personal property and belongings?<br>4. How do you insure the items which mean the most?<br>5. What about liability?**
+**1\. What is covered?<br>2\. How much coverage do you need?<br>3\. How do you insure your personal property and belongings?<br>4\. How do you insure the items which mean the most?<br>5\. What about liability?**
 
 To start with, what is covered? In California, standard hazard or fire insurance, as everyone likes to call it, insures you for sudden, accidental occurrences and catastrophic perils such as fire, wind, hail, and lightning.
 
