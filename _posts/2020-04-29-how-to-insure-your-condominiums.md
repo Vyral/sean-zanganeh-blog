@@ -4,7 +4,6 @@ title: How to Insure Your Condominiums
 tags:
   - Real Estate
   - Home Buyer Tips
-  - Insurance
 excerpt: Are you confused about what type of condominium insurance you should purchase?
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Sean+Zanganeh/Videos/How+to+Insure+Your+Condominiums.mp4
