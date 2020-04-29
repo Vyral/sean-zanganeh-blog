@@ -3,8 +3,7 @@ layout: post
 title: 3 Hot Lending Topics for 2018
 tags:
   - Real Estate
-  - Taxes
-  - Tax Reform
+  - Market Update
 excerpt: >-
   What’s going on in the lending world right now in San Diego? There are three
   main topics I’d like to go over, today.
@@ -24,7 +23,7 @@ youtube_code:
 
 <center><em>What&rsquo;s going on in the lending world right now in San Diego? There are three main topics I&rsquo;d like to go over, today.</em></center>
 
- 
+&nbsp;
 
 I’m joined today by special guest Todd Pianin of RPM Mortgage to talk about a few hot topics relating to mortgage lending and real estate in 2018.
 
@@ -40,6 +39,6 @@ We’re focusing on three subjects, specifically.
 
 If you are looking for more mortgage information and want to get in touch with Todd, you can give him a call at (858) 775-8958 or email him at tpianin@rpm-mtg.com.
 
-Todd Pianin, Regional Manager NMLS# 304014<br><br>LendUS, LLC dba RPM Mortgage NMLS #1938 - Licensed by the Department of Business Oversight under the CA Residential Mortgage Lending Act. Equal Housing Opportunity.
+Todd Pianin, Regional Manager NMLS\# 304014<br><br>LendUS, LLC dba RPM Mortgage NMLS \#1938 - Licensed by the Department of Business Oversight under the CA Residential Mortgage Lending Act. Equal Housing Opportunity.
 
 And as always, if you have any other questions for me or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
