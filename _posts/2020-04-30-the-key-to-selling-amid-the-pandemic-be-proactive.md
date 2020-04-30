@@ -13,7 +13,7 @@ pullquote: Buyer tastes and overall demand are changing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-28-zanganeh-youtube.jpg
+youtube_alternate_image: /uploads/4-28-zanganeh-youtube-1.jpg
 youtube_code: 9KP_CPUGGyg
 ---
 
