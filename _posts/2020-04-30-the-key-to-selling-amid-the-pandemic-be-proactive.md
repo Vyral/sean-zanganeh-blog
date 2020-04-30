@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Key to Selling Amid the Pandemic: Be Proactive'
-date: 2020-04-28 00:00:00
+date: 2020-04-30 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -19,7 +19,7 @@ youtube_code: 9KP_CPUGGyg
 
 {% include youtube.html %}
 
-<center><em>COVID-19 has flipped our world upside down, but the real estate industry is resilient. Here’s how we’re helping sellers maximize opportunities.</em></center>
+<center><em>COVID-19 has flipped our world upside down, but the real estate industry is resilient. Here&rsquo;s how we&rsquo;re helping sellers maximize opportunities.</em></center>
 
 <br>Are homes still selling during the COVID-19 pandemic? If you need to sell, how do you even go about doing so right now? Truthfully, the market is still moving along considerably well. We’re monitoring the MLS and seeing homes in our San Diego market go into escrow every single day—remarkably close to what we’d see under normal conditions. Here’s even more good news: **If your home is in a low inventory area or a highly sought-after price point, we’re seeing those prices increase**.
 
