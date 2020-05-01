@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   COVID-19 has flipped our world upside down, but the real estate industry is
   resilient. Here’s how we’re helping sellers maximize opportunities.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/The+Key+to+Selling+Amid+the+Pandemic-+Be+Proactive.mp4
 pullquote: Buyer tastes and overall demand are changing.
 enclosure_type: video/mp4
 enclosure_time:
