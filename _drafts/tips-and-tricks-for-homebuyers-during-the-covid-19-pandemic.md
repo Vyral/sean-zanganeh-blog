@@ -19,7 +19,9 @@ youtube_code: Pf2dsHfxDTo
 
 {% include youtube.html %}
 
-Although the COVID-19 pandemic has negatively affected many different areas of our economy, there are still people out there buying and selling homes. Today we’re going to focus on what active buyers are experiencing right now. Many buyers began the process before this crisis happened and need to buy in order to expand their family. **The good news is that there are still great opportunities out there for them**.
+<center><em>Buying a home during a pandemic is different than it normally is, but there are still opportunities out there to buy safely and successfully.</em></center>
+
+<br>Although the COVID-19 pandemic has negatively affected many different areas of our economy, there are still people out there buying and selling homes. Today we’re going to focus on what active buyers are experiencing right now. Many buyers began the process before this crisis happened and need to buy in order to expand their family. **The good news is that there are still great opportunities out there for them**.
 
 One of the main advantages for homebuyers now is less competition. Our inventory levels are near rock-bottom lows, and instead of competing against 10 other buyers, most are competing against just one or two.
 
