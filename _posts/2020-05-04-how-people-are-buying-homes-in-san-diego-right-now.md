@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips and Tricks for Homebuyers During the COVID-19 Pandemic
+title: How People Are Buying Homes in San Diego Right Now
 date: 2020-05-04 00:00:00
 tags:
   - Real Estate
