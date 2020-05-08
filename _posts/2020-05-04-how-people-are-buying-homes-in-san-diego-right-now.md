@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Buying a home during a pandemic is different than it normally is, but there
   are still opportunities out there to buy safely and successfully.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/How+People+Are+Buying+Homes+in+San+Diego+Right+Now.mp4
 pullquote: 'We can help you start your search through virtual, 3D showings.'
 enclosure_type: video/mp4
 enclosure_time:
