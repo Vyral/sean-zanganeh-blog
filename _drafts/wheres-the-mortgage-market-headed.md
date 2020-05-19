@@ -20,6 +20,8 @@ youtube_code: F4qX90mM8eU
 
 {% include youtube.html %}
 
-Todd Pianin of <u><a target="_blank" href="https://www.rate.com/">Guaranteed Rate</a></u> has joined me once again to talk about the state of our mortgage market. A lot of people have been asking us about the increased showing traffic and whether or not it has resulted in an increase in mortgage applications. According to Todd, Guaranteed Rate’s volume is going up each month and **demand has picked up, especially in the last few weeks**. He also discussed jumbo loans, interest rates, and more.
+<center><em>Todd Pianin joined me for a great discussion on the state of the mortgage market.</em></center>
+
+<br>Todd Pianin of <u><a target="_blank" href="https://www.rate.com/">Guaranteed Rate</a></u> has joined me once again to talk about the state of our mortgage market. A lot of people have been asking us about the increased showing traffic and whether or not it has resulted in an increase in mortgage applications. According to Todd, Guaranteed Rate’s volume is going up each month and **demand has picked up, especially in the last few weeks**. He also discussed jumbo loans, interest rates, and more.
 
 To hear our full conversation, watch the video above.
