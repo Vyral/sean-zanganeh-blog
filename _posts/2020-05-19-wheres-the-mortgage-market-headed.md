@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Todd Pianin joined me for a great discussion on the state of the mortgage
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/Wheres+the+Mortgage+Market+Headed_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
