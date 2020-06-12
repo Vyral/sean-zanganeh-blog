@@ -17,7 +17,7 @@ youtube_code: rVZGf7wcHXg
 
 {% include youtube.html %}
 
-<center><em>If you’re considering selling, here’s what you need to know.</em></center>
+<center><em>If you&rsquo;re considering selling, here&rsquo;s what you need to know.</em></center>
 
 <br>Are you considering selling your home and want to know how the real estate market is doing? Certain indicators demonstrate how the market is faring better than others, and today I’m sharing the ones you need to make the best decisions when selling.
 
