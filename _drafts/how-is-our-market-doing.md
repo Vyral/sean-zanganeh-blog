@@ -17,6 +17,8 @@ youtube_code: rVZGf7wcHXg
 
 {% include youtube.html %}
 
-Are you considering selling your home and want to know how the real estate market is doing? Certain indicators demonstrate how the market is faring better than others, and today I’m sharing the ones you need to make the best decisions when selling.
+<center><em>If you’re considering selling, here’s what you need to know.</em></center>
+
+<br>Are you considering selling your home and want to know how the real estate market is doing? Certain indicators demonstrate how the market is faring better than others, and today I’m sharing the ones you need to make the best decisions when selling.
 
 First, we tracked the new properties coming onto the market through April and May, and **we actually saw 18% more homes listed, despite the pandemic**. When the June statistics come out, we’ll see that number skyrocket.
