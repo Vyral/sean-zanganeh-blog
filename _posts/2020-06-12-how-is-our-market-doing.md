@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'If you’re considering selling, here’s what you need to know.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/How+Is+Our+Market+Doing_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
