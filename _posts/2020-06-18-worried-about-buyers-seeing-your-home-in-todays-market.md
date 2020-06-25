@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: I have some important news to share with future home sellers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/Worried+About+Buyers+Seeing+Your+Home+in+Todays+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
