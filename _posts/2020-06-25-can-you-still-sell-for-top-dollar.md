@@ -17,7 +17,7 @@ youtube_code: V7PYPSTuAbc
 
 {% include youtube.html %}
 
-<center><em>You can still sell for top dollar amid COVID-19. Here’s how we do it.</em></center>
+<center><em>You can still sell for top dollar amid COVID-19. Here&rsquo;s how we do it.</em></center>
 
 <br>Can you still get top dollar for your home in today’s real estate market? Amid all the negative news lately, I’m sharing one of my recent clients’ success stories.
 
