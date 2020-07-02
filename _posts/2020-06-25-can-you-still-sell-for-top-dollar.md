@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: You can still sell for top dollar amid COVID-19. Here’s how we do it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/Can+You+Still+Sell+for+Top+Dollar_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
