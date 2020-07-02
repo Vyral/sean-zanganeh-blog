@@ -22,3 +22,5 @@ youtube_code: GGPaU5lQlE4
 <br>The world has changed so much in 2020. We’ve been checking on our friends, family, and clients to make sure you’re all doing well. During these conversations, we’ve been receiving many questions from you about the market, home prices, and more.
 
 Today I wanted to share how we can help you during this peculiar time. **We want to provide accurate information to help you make the best decisions for you and your family**.
+
+&nbsp;
