@@ -23,4 +23,4 @@ youtube_code: GGPaU5lQlE4
 
 Today I wanted to share how we can help you during this peculiar time. **We want to provide accurate information to help you make the best decisions for you and your family**.
 
-If you'd like to set up a call to discuss the value of your home, **<u><a target="_blank" href="https://calendly.com/seanzanganeh/home-valuation-consultation">visit our Calendly here</a></u>** and select a time that works best for you.
+If you'd like to set up a call to discuss the value of your home, **<u><a target="_blank" href="https://calendly.com/seanzanganeh/home-valuation-consultation">visit our Calendly here</a></u>** and select a time that works best for you. We look forward to speaking with you.
