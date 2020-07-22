@@ -48,5 +48,3 @@ If you'd like to set up a call to discuss the value of your home, visit our Cale
 	position:relative;
 	top:1px;
 }
-
-        
