@@ -25,4 +25,8 @@ Today I wanted to share how we can help you during this peculiar time. **We want
 
 If you'd like to set up a call to discuss the value of your home, visit our Calendly below and select a time that works best for you. We look forward to speaking with you.
 
-<div style="text-align: center;">![](/uploads/button-schedule-a-call-here.png){: width="336" height="64"}</div>
+<div style="text-align: center;">
+  <a href="https://calendly.com/seanzanganeh/home-valuation-consultation" target="_blank" rel="noopener">
+    <img src="https://d1qmdf3vop2l07.cloudfront.net/violet-car.cloudvent.net/hash-store/c6d073dc4a10c1d37870248f322ab56f.png" alt="" width="336" height="64" data-cms-original-src="/uploads/button-schedule-a-call-here.png">
+  </a>
+</div>
