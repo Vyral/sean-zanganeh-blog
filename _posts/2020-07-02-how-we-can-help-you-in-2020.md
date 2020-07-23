@@ -23,10 +23,6 @@ youtube_code: GGPaU5lQlE4
 
 Today I wanted to share how we can help you during this peculiar time. **We want to provide accurate information to help you make the best decisions for you and your family**.
 
-If you'd like to set up a call to discuss the value of your home, visit our Calendly below and select a time that works best for you. We look forward to speaking with you.
+You're home has probably gone up in price more than you think, so we should chat if you're even having a thought about selling. If you'd like to set up a call to discuss the value of your home, visit our Calendly link below and select a time that works best for you. We look forward to speaking with you.
 
-<div style="text-align: center;">
-  <a href="https://calendly.com/seanzanganeh/home-valuation-consultation" target="_blank" rel="noopener">
-    <img src="https://d1qmdf3vop2l07.cloudfront.net/violet-car.cloudvent.net/hash-store/c6d073dc4a10c1d37870248f322ab56f.png" alt="" width="336" height="64" data-cms-original-src="/uploads/button-schedule-a-call-here.png">
-  </a>
-</div>
+<div style="text-align: center;"><a target="_blank" rel="noopener" href="https://calendly.com/seanzanganeh/home-valuation-consultation"><img alt="" width="336" height="64" src="/uploads/button-schedule-a-call-here.png" /> </a></div>
