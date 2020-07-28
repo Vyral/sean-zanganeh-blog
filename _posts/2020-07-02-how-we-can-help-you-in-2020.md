@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'We want to help you reach your real estate goals, even amid COVID-19.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/How+We+Can+Help+You+in+2020.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
