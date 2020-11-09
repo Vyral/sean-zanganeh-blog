@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What 3 Factors Define Our Current Market?
+title: 'Q4 Market Update: What is Going to Happen to Your Real Estate?'
 date: 2020-11-04 00:00:00
 tags:
   - Real Estate
