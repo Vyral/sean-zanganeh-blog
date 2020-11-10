@@ -5,7 +5,7 @@ date: 2020-11-04 00:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: 'Low inventory, low rates, and a shift in demand are fueling our Q4 market'
+excerpt: 'Low inventory, low rates, and a shift in demand are fueling our Q4 market.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/Q4+Market+Update+What+is+Going+to+Happen+to+Your+Real+Estate.mp4
 pullquote: These are likely the lowest interest rates we’ll see in our lifetime.
