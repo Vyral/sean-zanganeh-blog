@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'Our market is moving fast, but here’s why it may behoove buyers to act now.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/What+Makes+the+End+of+2020+a+Good+Time+to+Buy_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
