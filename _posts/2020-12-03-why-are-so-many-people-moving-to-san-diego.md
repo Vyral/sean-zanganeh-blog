@@ -1,6 +1,6 @@
 ---
 layout: post
-title: San Diego’s Influx of Buyers
+title: Why Are So Many People Moving to San Diego?
 date: 2020-12-03 00:00:00
 tags:
   - Real Estate
