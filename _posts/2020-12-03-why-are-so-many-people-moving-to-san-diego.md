@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Our market has seen an increase in buyer demand for a few reasons.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/Why+Are+So+Many+People+Moving+to+San+Diego_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
