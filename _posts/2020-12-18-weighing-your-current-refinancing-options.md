@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Owner Tips
 excerpt: Should you refinance now or wait for lower rates? Here’s my advice.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2020/Weighing+Your+Current+Refinancing+Options.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
