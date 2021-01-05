@@ -18,7 +18,7 @@ youtube_code: j4K3-LMK3_c
 
 {% include youtube.html %}
 
-<center>&nbsp;Here&rsquo;s how we&rsquo;re helping our clients compete in this tough market.</center>
+<center><em>&nbsp;Here&rsquo;s how we&rsquo;re helping our clients compete in this tough market.</em></center>
 
 &nbsp;
 
