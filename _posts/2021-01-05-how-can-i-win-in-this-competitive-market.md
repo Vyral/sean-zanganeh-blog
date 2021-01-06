@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can I Win in This Competitive Market?
-date: 2021-01-05 19:46:43
+date: 2021-01-05 19:46:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -28,8 +28,8 @@ Are you looking to buy a home but frustrated by the intense competition in today
 
 {% include pullquote.html %}
 
-**2\. Use our buyer direct program.** This allows us to really target our search area and call, mail, and leave doorknockers at all the area homeowners where you’re looking and retarget them on social media. This allows us to bring you a property with the least amount of competition since it’s not actually on the market. Some sellers don’t want to go through the minutiae of putting their home on the market, and this program is dedicated to helping buyers win those homes today.
+**2\. Use our buyer direct program.** This allows us to target our search area and call, mail, and leave doorknockers for all the area homeowners where you’re looking and retarget them on social media. This allows us to bring you a property with the least amount of competition since it’s not actually on the market. Some sellers don’t want to go through the minutiae of putting their home on the market, and this program is dedicated to helping buyers win those homes today.
 
 **3\. Work with an experienced agent.** They should be well-intertwined with the agent community. So much real estate business gets done through agent communication, and who you work with matters more than ever.
 
-We want to be the agents who help you win, so if you’re looking for more tips and tricks or just have any real estate questions, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+We want to be the agents who help you win, so if you’re looking for more tips and tricks or just have any real estate questions, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
