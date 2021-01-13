@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here’s how we’re helping our clients compete in this tough market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2021/How+Can+I+Win+in+This+Competitive+Market_.mp4
 pullquote: An experienced agent with many connections is an invaluable resource.
 enclosure_type: video/mp4
 enclosure_time:
