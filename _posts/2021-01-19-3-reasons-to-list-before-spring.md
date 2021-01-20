@@ -23,12 +23,12 @@ youtube_code: KvmEetDC_b0
 
 **1\. Low competition**. The competition itself will be lower before spring hits. We’re already seeing a massive amount of competition right now due to the reduced supply of properties on the market. Six months ago your neighborhood may have had five or six homes for sale, but today there may only be one. Less competition gives you the freedom to consider your next move without as many speed bumps in the way.
 
-**2\. Pent-up buyer demand**. People were looking and looking to buy in the second half of 2020, but there wasn’t enough inventory on the market. San Diego recorded the lowest amount of inventory ever in the fourth quarter. Our market won’t come out of that until at least late February or March when more people start listing. By that time, we’re into the traditional selling season.
+**2\. Pent-up buyer demand**. People were looking to buy in the second half of 2020, but there wasn’t enough inventory on the market. San Diego recorded the lowest amount of inventory ever in the fourth quarter. Our market won’t come out of that until at least late February or March when more people start listing. By that time, we’re into the traditional selling season.
 
 Usually, people wait until after the Super Bowl to put their houses on the market, then we get even more in May and June from the family-dense neighborhoods because they want to wait until the kids are out of school. Virtual schooling has changed much of that, so people have the flexibility to move now.
 
-**3\. Your home’s little-known features can be shown**. How many of you have a beautiful fire pit with fantastic lighting or heaters, or some other great feature? As people are spending more time at home, they’re paying more attention to these details. They want to walk into a home and see that elegant fireplace lit up, as opposed to dormant, the way it is the rest of the year here in San Diego. They want to see these features utilized because they’ll be spending much of their time at home for the foreseeable future.
-
 {% include pullquote.html %}
+
+**3\. Your home’s little-known features can be shown**. How many of you have a beautiful fire pit with fantastic lighting or heaters, or some other great feature? As people are spending more time at home, they’re paying more attention to these details. They want to walk into a home and see that elegant fireplace lit up, as opposed to dormant, the way it is the rest of the year here in San Diego. They want to see these features utilized because they’ll be spending much of their time at home for the foreseeable future.
 
 If you might be interested in listing your house this winter and want help to compose a plan to win in 2021, we’d love to assist you. Call or leave us a message, and let us know how we can serve you.
