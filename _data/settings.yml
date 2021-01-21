@@ -1,3 +1,4 @@
+---
 audit_header: false
 title: Sean Zanganeh Real Estate Video Blog
 description: >-
@@ -90,7 +91,7 @@ podcast:
     buyer
   author: Sean Zanganeh
 images:
-  client_headshot_path: /img/headshot.png
+  client_headshot_path: /uploads/zanganeh-2021-headshot---square.jpg
   hero_logo_path: /img/LOGO_White.png
   hero_text: San Diego Real Estate Video Blog
   hero_background_hex: '#15293d'
@@ -100,3 +101,4 @@ theme_color: '#15293d'
 theme_text_color: '#ffffff'
 main_body_color: '#ffffff'
 main_body_text_color: '#353535'
+---
