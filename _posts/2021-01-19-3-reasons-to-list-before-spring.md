@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: I have three good reasons you shouldn’t wait until spring to sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2021/3+Reasons+to+List+Before+Spring.mp4
 pullquote: Now is an excellent time to list your house for sale.
 enclosure_type: video/mp4
 enclosure_time:
