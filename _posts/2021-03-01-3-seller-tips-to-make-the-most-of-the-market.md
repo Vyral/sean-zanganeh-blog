@@ -18,7 +18,7 @@ youtube_code: S52tBW9QOY4
 
 {% include youtube.html %}
 
-<center style="font-size: 18px;"><em>Today I&rsquo;m sharing three tips to help you sell your home quickly and for the most money.</em></center>
+<center style="font-size: 18px;"><em>Today I'm sharing three tips to help you sell your home quickly and for the most money.</em></center>
 
 <br>The market has been hot for the last several months, and it will probably remain that way for a while. Today I want to share three tips to help you make the most of the market when it comes time for you to sell your home:
 
