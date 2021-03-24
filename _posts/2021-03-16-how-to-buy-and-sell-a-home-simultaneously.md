@@ -3,9 +3,10 @@ layout: post
 title: How to Buy and Sell a Home Simultaneously
 date: 2021-03-16 00:00:00
 tags:
-  - Real Estate
+  - Home Buyer Tips
 excerpt: Here are three tips to help make your home purchase easier in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2021/How+to+Buy+and+Sell+a+Home+Simultaneously.mp4
 pullquote: 'For some families, a rent-back might be the only option.'
 enclosure_type: video/mp4
 enclosure_time:
