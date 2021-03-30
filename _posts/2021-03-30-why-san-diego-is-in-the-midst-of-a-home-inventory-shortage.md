@@ -3,7 +3,7 @@ layout: post
 title: Why San Diego Is in the Midst of a Home Inventory Shortage
 date: 2021-03-30 00:00:00
 tags:
-  - Real Estate
+  - Home Buyer Tips
 excerpt: Here’s why demand is so high and supply is so low.
 enclosure:
 pullquote: >-
