@@ -25,7 +25,7 @@ If you’re struggling to find a home in the San Diego area, you’re not alone.
 
 {% include pullquote.html %}
 
-**2\. Low interest rates:** Many people who were thinking of downsizing or moving laterally decided it would make more sense to take advantage of low interest rates, refinance their home, and come out with a cheaper monthly payment. This is especially true for baby boomers, who hold the largest share of real estate; they’re able to wait longer to move because they now have more options and can better afford payments.
+**2\. Low interest rates:** Many people who were thinking of downsizing or moving laterally decided it would make more sense to take advantage of low interest rates, refinance their homes, and come out with a cheaper monthly payment. This is especially true for baby boomers, who hold the largest share of real estate; they’re able to wait longer to move because they now have more options and can better afford payments.
 
 **3\. Longer life expectancy:** Baby boomers are also enjoying longer, healthier, and more functional lives. They’re also able to stay near their kids and grandchildren instead of moving to less expensive areas. In the past, older adults would typically be downsizing in their 60s and 70s, so this has locked down a lot of real estate. On top of this, San Diego isn’t able to have a lot of single-story homes, so this creates even more competition for the ones that are available.
 
