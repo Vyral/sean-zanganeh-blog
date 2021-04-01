@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why San Diego Is in the Midst of a Home Inventory Shortage
+title: Why San Diego is in the Midst of a Home Inventory Shortage
 date: 2021-03-30 00:00:00
 tags:
   - Home Buyer Tips
