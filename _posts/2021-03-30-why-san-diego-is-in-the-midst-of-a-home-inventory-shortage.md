@@ -5,7 +5,8 @@ date: 2021-03-30 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s why demand is so high and supply is so low.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2021/Why+San+Diego+is+in+the+Midst+of+a+Home+Inventory+Shortage.mp4
 pullquote: >-
   Inventory has been overwhelmingly low, meaning that tons of buyers are
   competing over a small supply of properties.
