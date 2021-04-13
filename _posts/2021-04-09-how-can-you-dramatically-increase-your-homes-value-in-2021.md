@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Top 2 Ways to Increase Your Home’s Value
+title: How Can You Dramatically Increase Your Home’s Value in 2021?
 date: 2021-04-09 00:00:00
 tags:
   - Home Seller Tips
