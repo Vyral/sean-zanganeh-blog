@@ -5,7 +5,8 @@ date: 2021-04-09 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Here's what homebuyers are willing to pay a premium for in 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2021/How+Can+You+Dramatically+Increase+Your+Home%E2%80%99s+Value+in+2021_.mp4
 pullquote: Many clients have been investing in their outdoor spaces.
 enclosure_type: video/mp4
 enclosure_time:
