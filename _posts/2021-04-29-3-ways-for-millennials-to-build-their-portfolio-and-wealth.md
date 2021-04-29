@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Ways for Millennials to Build Their Portfolio & Wealth
+title: 3 Ways for Millennials to Build Their Portfolio and Wealth
 date: 2021-04-29 00:00:00
 tags:
   - Home Buyer Tips
