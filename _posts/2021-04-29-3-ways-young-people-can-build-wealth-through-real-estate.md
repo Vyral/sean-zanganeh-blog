@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Ways for Millennials to Build Their Portfolio and Wealth
+title: 3 Ways Young People Can Build Wealth Through Real Estate
 date: 2021-04-29 00:00:00
 tags:
   - Home Buyer Tips
