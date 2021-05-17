@@ -5,7 +5,8 @@ date: 2021-04-29 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are three ways to build your real estate portfolio in San Diego.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2021/3+Ways+Young+People+Can+Build+Wealth+Through+Real+Estate.mp4
 pullquote: >-
   Many young people don’t think of real estate as a great partnership
   opportunity, but it can be.
