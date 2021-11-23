@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Won’t Certain Homes Sell?
-date: 2021-11-24 12:27:00
+date: 2021-11-23 12:27:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -20,7 +20,7 @@ youtube_code: 07VxuxPcz6o
 
 {% include excerpt.html %}
 
-We’ve seen a crazy change in the marketplace over the last two years. We went from March 2020, when everyone stopped buying homes, to June and July, when everyone went right back to the market. In 2021, we’ve seen one of the biggest increases in home values that I think any of us will see in our lifetimes.&nbsp;
+We’ve seen a crazy change in the marketplace over the last two years. We went from March 2020, when everyone stopped buying homes, to June and July, when everyone went right back to the market. In 2021, we’ve seen one of the biggest increases in home values that I think any of us will see in our lifetimes.
 
 Now the market is shifting again. It’s not slowing down—we’re just not seeing the rapid pace of increase that we saw between February and July. Here are a few things we’ve noticed that are causing homes not to sell in this market:
 
