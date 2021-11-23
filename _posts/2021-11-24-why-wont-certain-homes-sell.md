@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Won’t Certain Homes Sell?
-date: 2021-11-23 19:27:13
+date: 2021-11-24 12:27:00
 tags:
   - Home Seller Tips
   - Real Estate
