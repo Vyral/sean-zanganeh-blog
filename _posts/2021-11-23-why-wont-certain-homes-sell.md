@@ -4,9 +4,9 @@ title: Why Won’t Certain Homes Sell?
 date: 2021-11-23 12:27:00
 tags:
   - Home Seller Tips
-  - Real Estate
 excerpt: Here are the top three reasons why homes fail to sell in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2021/Why+Won%E2%80%99t+Certain+Homes+Sell_.mp4
 pullquote: >-
   You can’t just take a couple of photos on your iPhone and put the house on the
   market anymore.
