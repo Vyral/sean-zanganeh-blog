@@ -5,7 +5,8 @@ date: 2021-12-09 00:00:00
 tags:
   - Market Update
 excerpt: 'Here’s what you need to know about the future of San Diego’s condo market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2021/Why+the+San+Diego+Condo+Market+Is+on+Fire.mp4
 pullquote: People from all over the country are buying property here.
 enclosure_type: video/mp4
 enclosure_time:
