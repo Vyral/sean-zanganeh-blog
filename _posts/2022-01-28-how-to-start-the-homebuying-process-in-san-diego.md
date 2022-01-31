@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Start the Homebuying Process in San Diego
+title: How to Start the Home-Buying Process in San Diego
 date: 2022-01-28 00:00:00
 tags:
   - Home Buyer Tips
@@ -25,7 +25,7 @@ First, we like to sit down with our buyers to find out about your needs. Do you 
 
 Similarly, **we need to know if you’ll need to commute for work.** Many people think that they’ll be fine living far away from their workplaces, but as we come out of the COVID era, the traffic is starting to return to San Diego. The location of the home makes a huge difference; one or two exits could add 15 to 20 minutes to your commute each way.
 
-Next, **we’ll create a hot map** by looking up properties that sold in the last 60 days in the area you’re interested in to see if it’s a good fit for you and your family. Looking at homes that border the area you’re looking in is a good backup plan to help you get a better deal.
+Next, **we’ll create a hot map** by looking up properties that sold over the last 60 days in the area you’re interested in to see if it’s a good fit for you and your family. Looking at homes that border the area you’re looking in is a good backup plan to help you get a better deal.
 
 {% include pullquote.html %}
 
