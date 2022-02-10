@@ -5,7 +5,8 @@ date: 2022-01-28 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are a few tips to help you successfully buy a home in San Diego.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2021/How+To+Start+the+Home-Buying+Process+in+San+Diego.mp4
 pullquote: >-
   The location of the home makes a huge difference; one or two exits could add
   15 to 20 minutes to your commute each way.
