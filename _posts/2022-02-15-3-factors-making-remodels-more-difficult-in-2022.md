@@ -23,8 +23,8 @@ Should you remodel your home in this market prior to selling? There’s a lot to
 
 **2\. Increase in inflation.** Repairs simply cost more to make now than they used to. Bigger projects become even bigger and more expensive as a result.
 
-**3\. Difficulty finding good help.** Finding good contractor work is essential for a successful model.&nbsp;
+**3\. Difficulty finding good help.** Finding good contractor work is essential for a successful remodel.&nbsp;
 
-We’re fortunate to have some great vendors who we work with and can recommend to our clients. We have great relationships with quality vendors who have helped us in the past. They can help you, too.
+We’re fortunate to work with some quality vendors that we have great relationships with and can recommend to our clients. Let me know if you'd like their information.
 
 If you have any questions for me about remodeling, buying, selling, or real estate in general, don't hesitate to reach out via phone or email. I look forward to hearing from you soon.
