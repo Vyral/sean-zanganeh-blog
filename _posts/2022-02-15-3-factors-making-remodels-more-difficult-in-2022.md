@@ -5,7 +5,8 @@ date: 2022-02-15 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are some challenges you might face when remodeling your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2022/3+Factors+Making+Remodels+More+Difficult+in+2022.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -23,7 +24,7 @@ Should you remodel your home in this market prior to selling? There’s a lot to
 
 **2\. Increase in inflation.** Repairs simply cost more to make now than they used to. Bigger projects become even bigger and more expensive as a result.
 
-**3\. Difficulty finding good help.** Finding good contractor work is essential for a successful remodel.&nbsp;
+**3\. Difficulty finding good help.** Finding good contractor work is essential for a successful remodel.
 
 We’re fortunate to work with some quality vendors that we have great relationships with and can recommend to our clients. Let me know if you'd like their information.
 
