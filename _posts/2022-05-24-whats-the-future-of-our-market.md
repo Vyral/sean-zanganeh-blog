@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-19-zanganeh-youtube.jpg
-youtube_code: v=dMA2126l87I
+youtube_code: dMA2126l87I
 ---
 {% include youtube.html %}
 
