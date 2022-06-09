@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'What you need to know about the future of our housing market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sean+Zanganeh/Videos/2022/Have+home+prices+peaked_+Is+the+Housing+Market+Finally+Coming+Down_.mp4
 pullquote: 2022 will be full of opportunities.
 enclosure_type: video/mp4
 enclosure_time:
