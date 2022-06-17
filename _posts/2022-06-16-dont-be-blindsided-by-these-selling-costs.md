@@ -5,7 +5,7 @@ date: 2022-06-16 19:20:16
 tags:
   - Home Selling Tips
   - Home Seller Tips
-excerpt: Three easy-to-forget costs that all sellers should be aware of.
+excerpt: Three easy-to-forget costs that all sellers should keep in mind.
 enclosure:
 pullquote: Get your defensible space checked ahead of time.
 enclosure_type: video/mp4
@@ -18,9 +18,9 @@ youtube_code: gCs-sR76Ems
 
 {% include excerpt.html %}
 
-Every time a homeowner sells their house, there are always a few costs that they forget about, and that can be frustrating when it comes time to pay them. If you’re planning to sell, the last thing you want is to be surprised by these costs, so I want to cover the top three surprise costs today:
+Every time a homeowner sells their house, there are always a few costs that they forget about, and that can be frustrating when it comes time to pay them. If you’re planning to sell, the last thing you want is to be surprised by these costs. Here are the three most common surprise costs:
 
-**1\. HOA fees.** If you live in an HOA, there are usually document and transfer fees associated with the sale of your property. Some condo communities might have costs of $300 to $1,000 that you’ll have to pay upfront during escrow. This can be super frustrating because you might already have the information and think you can just email it to the buyer. However, because of liability issues and rule changes, it’s always best to pay the HOA to do it instead.
+**1\. HOA fees.** If you live in an HOA, there are usually documents and transfer fees associated with the sale of your property. Some condo communities might have costs of $300 to $1,000 that you’ll have to pay upfront during escrow. This can be super frustrating because you might already have the information and think you can just email it to the buyer. However, because of liability issues and rule changes, it’s always best to pay the HOA to do it instead.
 
 {% include pullquote.html %}
 
