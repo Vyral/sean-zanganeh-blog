@@ -26,15 +26,15 @@ Are you thinking about remodeling your home this year and want to know where to 
 
 **1\. Plan ahead.** Far too many people start their remodeling projects without proper planning. Depending on your plans, you may need a designer, architect, contractor, or multiple vendors to help. If you don’t create a plan ahead of time, you’re leaving opportunities for issues to crop up, which can hamper or derail the process.
 
-**2\. Buy supplies beforehand.** Most of the big items you’d buy for a house like windows, cabinets, flooring, and lumber are back-ordered for weeks or even months. If you know you’ll&nbsp; be remodeling in the future, you need to buy your supplies well in advance. We’ve seen clients get a storage container to store what they need for their remodels while waiting for the rest of their supplies to arrive.
+**2\. Buy supplies beforehand.** Most of the big items you’d buy for a house like windows, cabinets, flooring, and lumber are back-ordered for weeks or even months. If you know you’ll be remodeling in the future, you need to buy your supplies well in advance. We’ve seen clients get a storage container to store what they need for their remodels while waiting for the rest of their supplies to arrive.
 
 {% include pullquote.html %}
 
-**​​​​​​​3. Get multiple bids.** The remodel and construction markets have become so busy over the past two years. Nowadays, everything has gotten much more expensive, so by getting multiple bids, you can find the best deal for your finances.
+**3\. Get multiple bids.** The remodel and construction markets have become so busy over the past two years. Nowadays, everything has gotten much more expensive, so by getting multiple bids, you can find the best deal for your finances.
 
-**4\. Ask about price increases.** Prices for things like appliances are consistently increasing month by month, so be sure to speak to your vendors before committing to anything.
+**4\. Ask about price increases.** Prices for things like appliances are consistently increasing month-over-month, so be sure to speak to your vendors before committing to anything.
 
-**5\. Plan for modernization.** If your home doesn’t currently have updated, modern amenities, consider whether you’ll need to install them so that you can do so at the correct stage of the remodel.&nbsp;
+**5\. Plan for modernization.** If your home doesn’t currently have updated, modern amenities, consider whether you’ll need to install them so you can do so at the correct stage of the remodel.&nbsp;
 
 **BONUS TIP: Just breathe.** Some things likely aren’t going to go exactly as planned, and it may get frustrating at times. It’s all part of the process—just remember that you’ll have a beautiful, finished product by the time it’s all over.
 
