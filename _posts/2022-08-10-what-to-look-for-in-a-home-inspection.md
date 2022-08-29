@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/08-04-zanganeh-youtube.jpg
-youtube_code: _BfC4Usj6ic
+youtube_code: i3u1NX50bCM
 ---
 {% include youtube.html %}
 
