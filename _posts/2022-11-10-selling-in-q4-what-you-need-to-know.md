@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Selling in Q4: What You Need To Know'
+title: Should You Sell in Q4 2022?
 date: 2022-11-10 07:00:00
 tags:
   - Home Seller Tips
