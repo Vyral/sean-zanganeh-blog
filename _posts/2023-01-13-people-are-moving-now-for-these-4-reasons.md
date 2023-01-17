@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/01-12-zanganeh-youtube-1.jpg
+youtube_alternate_image: /uploads/01-12-zanganeh-youtube-1-1.jpg
 youtube_code: RsZMz5cUvFs
 ---
 {% include youtube.html %}
@@ -30,6 +30,6 @@ Who's selling their home in 2023? When we look at real estate today, because so 
 
 **3\. Domestic reorganization.** The next one is domestic reorganization, or as the attorneys call it, divorce. A lot of times, unfortunately, because people part ways in their relationships, those homes come for sale again and are sold due to financial situations or just plain old-fashioned “Got to get the home sold.”
 
-**4\. Death.&nbsp;**Unfortunately, this is a sad reason. However, once someone gets older and passes away, they have to sell that home, and it’s common that the person who would receive the home doesn’t want to keep it. This is where we typically find homes that might need a little renovation or love just because they've been cared for well for 20, 30, or 40 years, and the family’s finally selling them. Typically when those homes will come up for sale, they are sold by a third party, whether that be a beneficiary, a trust company, or someone responsible for the home.
+**4\. Death.** Unfortunately, this is a sad reason. However, once someone gets older and passes away, they have to sell that home, and it’s common that the person who would receive the home doesn’t want to keep it. This is where we typically find homes that might need a little renovation or love just because they've been cared for well for 20, 30, or 40 years, and the family’s finally selling them. Typically when those homes will come up for sale, they are sold by a third party, whether that be a beneficiary, a trust company, or someone responsible for the home.
 
 We’ve noticed that not many people are selling just to get a good deal. Instead, people are only moving when they need to. This has big implications for our market. So reach out to us by phone or email. I would be happy to help you with your real estate needs.
