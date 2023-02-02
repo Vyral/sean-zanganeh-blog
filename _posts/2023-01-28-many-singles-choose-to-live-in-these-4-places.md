@@ -22,7 +22,7 @@ youtube_code: Z40V5tYCzjQ
 
 Are you single and looking to find the right place to call home here in San Diego? We recently took a poll of single people in our community and asked them where were the most popular places for them to live, whether they're relocating within the city or from far away. Here are the top four places where single people live in San Diego:&nbsp;
 
-**1\. Pacific Beach.** This is an extremely popular area, especially for younger people, as they tend to be drawn to the beautiful beaches with fun bars and great restaurants. Plus, there’s walkability and overall a great lifestyle. This location is the most popular on today’s list.&nbsp;
+**1\. Pacific Beach.** This is an extremely popular area, especially for younger people, as they tend to be drawn to the beautiful beaches with fun bars and great restaurants. Plus, there’s walkability and a great lifestyle. This location is the most popular on today’s list.&nbsp;
 
 **2\. Little Italy.** This spot is so popular because it’s downtown where people can see the bars, nightclubs, restaurants, and everything going on. Plus, it’s close to the airport. This location has some of the best restaurants and events in San Diego, and it's very culturally diverse.&nbsp;
 
