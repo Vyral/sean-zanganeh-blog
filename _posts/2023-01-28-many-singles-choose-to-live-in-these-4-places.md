@@ -12,8 +12,8 @@ pullquote: >-
   restaurants.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image:
-youtube_alternate_image: /uploads/01-24-zanganeh-youtube.jpg
+use_youtube_image: /uploads/02-13-zanganeh-youtube.jpg
+youtube_alternate_image: ''
 youtube_code: Z40V5tYCzjQ
 ---
 {% include youtube.html %}
