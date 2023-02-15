@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Many Singles Choose To Live in These 4 Places
+title: Single in San Diego? Check Out the Hottest Places to Live
 date: 2023-01-28 07:00:00
 tags:
   - Buyer Tips
