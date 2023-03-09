@@ -12,7 +12,7 @@ pullquote: It is ultimately the lender who ensures that the transaction can be c
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/02-21-zanganeh-youtube-1.jpg
+youtube_alternate_image: /uploads/03-09-zanganeh-youtube.jpg
 youtube_code: csOLFrIAns0
 ---
 {% include youtube.html %}
