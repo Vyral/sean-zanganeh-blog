@@ -6,7 +6,7 @@ tags:
   - Buyer Tips
   - Home Buyer Tips
   - Real Estate
-excerpt: Mortgage lender Todd Pianan answers three common questions about lending.
+excerpt: Mortgage lender Todd Pianin answers three common questions about lending.
 enclosure:
 pullquote: It is ultimately the lender who ensures that the transaction can be completed.
 enclosure_type: video/mp4
@@ -19,7 +19,7 @@ youtube_code: csOLFrIAns0
 
 {% include excerpt.html %}
 
-Are you in the process of securing a mortgage and have some questions for your lender? As a prospective homeowner, it's important to be well-informed about the ins and outs of the lending process to ensure a smooth and successful transaction. To answer some of the common questions for lenders, mortgage lender Todd Pianan joined me for an interview and shared his insights. Here are the three common questions he answered:&nbsp;
+Are you in the process of securing a mortgage and have some questions for your lender? As a prospective homeowner, it's important to be well-informed about the ins and outs of the lending process to ensure a smooth and successful transaction. To answer some of the common questions for lenders, mortgage lender Todd Pianin joined me for an interview and shared his insights. Here are the three common questions he answered:&nbsp;
 
 **1\. Is the lender or the agent more important in a real estate transaction?** The lender is more important in a real estate transaction because they are responsible for ensuring that the client can comfortably afford the payments and secure a loan they can close on. While the real estate agent plays an important role in helping the client find the right property, it is ultimately the lender who ensures that the transaction can be completed.&nbsp;
 
