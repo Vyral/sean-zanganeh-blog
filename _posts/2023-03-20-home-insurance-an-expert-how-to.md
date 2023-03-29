@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Home Insurance: An Expert How To'
+title: 'Home Insurance: An Expert Analysis'
 date: 2023-03-20 07:00:00
 tags:
   - Home Owner Tips
@@ -21,18 +21,4 @@ If you are in the market to buy a home right now, or if you’ve just bought one
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
-0:00 — How to shop for home insurance
-
-0:32 — The market is tough right now
-
-1:01 — Work with a broker or agent
-
-1:33 — Make sure the company’s financials are solid
-
-2:10 — Make sure your lifestyle is covered
-
-3:05 — Condos and townhomes
-
-5:49 — Wrapping up
-
-Hopefully, you found that interesting and informative. Remember, if you have any questions about this topic or real estate in general, please feel free to reach out to me. I would love to serve as your resource for all of your real estate needs.
+If you have any questions about this topic or real estate in general, please feel free to reach out to me. I would love to serve as your resource for all of your real estate needs.
