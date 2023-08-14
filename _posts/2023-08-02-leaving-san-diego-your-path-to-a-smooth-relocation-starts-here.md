@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaving San Diego? Your Path to a Smooth Relocation Starts Here
+title: Thinking of leaving San Diego? Things to know BEFORE you move
 date: 2023-08-02 07:00:00
 tags:
   - Real Estate Tips
@@ -10,7 +10,7 @@ pullquote: Finding a trustworthy agent in your new city is important.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/07-31-zanganeh-youtube.jpg
+youtube_alternate_image: /uploads/sean-z-thumbnail-ideas.jpg
 youtube_code: P5orkVyYOfE
 ---
 {% include youtube.html %}
