@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mastering the San Diego Real Estate Market: Your Path to Selling Success'
+title: Selling Your San Diego Home? Here's What You Need to Know!
 date: 2023-10-10 07:00:00
 tags:
   - Market Update
