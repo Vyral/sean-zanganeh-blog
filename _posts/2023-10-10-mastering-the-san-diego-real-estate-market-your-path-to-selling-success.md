@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selling Your San Diego Home? Here's What You Need to Know!
+title: Schedule a home consultation today
 date: 2023-10-10 07:00:00
 tags:
   - Market Update
