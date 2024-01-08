@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sean-z-thumbnail-ideas-1.jpg
+youtube_alternate_image: /uploads/01-08-sean-z-youtube.jpg
 youtube_code: xPHk3rqW5Dw
 ---
 {% include youtube.html %}
