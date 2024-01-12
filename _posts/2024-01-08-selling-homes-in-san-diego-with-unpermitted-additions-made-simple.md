@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selling Homes in San Diego with Unpermitted Additions Made Simple
+title: 'Selling a home with unpermitted additions in San Diego? '
 date: 2024-01-08 07:00:00
 tags:
   - Market Update
