@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sean-zanganeh-yt.jpg
+youtube_alternate_image: /uploads/sean-zanganeh-0404-youtube.jpg
 youtube_code: jxuryJqoTfk
 ---
 {% include youtube.html %}
