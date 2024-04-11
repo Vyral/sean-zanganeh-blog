@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sean-zanganeh-0404-youtube.jpg
-youtube_code: jxuryJqoTfk
+youtube_code: oG_Tt2WRZ6Q
 ---
 {% include youtube.html %}
 
