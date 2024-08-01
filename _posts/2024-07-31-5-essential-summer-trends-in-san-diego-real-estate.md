@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Essential Summer Trends in San Diego Real Estate
+title: San Diego Market Update.. 5 insights you must know
 date: 2024-07-31 07:00:00
 excerpt: San Diego summer trends to help you predict future market conditions.
 enclosure:
