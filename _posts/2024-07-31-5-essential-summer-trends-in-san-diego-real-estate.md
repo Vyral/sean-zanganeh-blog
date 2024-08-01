@@ -10,7 +10,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sean-zanganeh-yt-thumbnails-1.jpg
+youtube_alternate_image: /uploads/sean-zanganeh-yt-thumbnails-3.jpg
 youtube_code: HlKsh51T4uA
 ---
 {% include youtube.html %}
