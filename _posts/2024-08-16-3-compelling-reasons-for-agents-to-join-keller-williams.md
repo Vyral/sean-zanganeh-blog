@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Compelling Reasons For Agents To Join Keller Williams
-date: 2024-08-16 08:00:00
+date: 2024-08-15 08:00:00
 tags:
   - Real Estate
   - Keller Williams
