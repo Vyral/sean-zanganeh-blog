@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/seanz-0916-yt.jpg
+youtube_alternate_image: /uploads/seanz-0916-yt-2.png
 youtube_code: lFGuNBNxkZM
 ---
 {% include youtube.html %}
