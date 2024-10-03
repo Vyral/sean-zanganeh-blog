@@ -23,8 +23,8 @@ youtube_code: 57tGF1IX05w
 
 There’s a common misconception about Keller Williams that we need to clear up—it’s not just a company for new agents. While Keller Williams does offer extensive training and resources for agents starting their real estate careers, it’s also a home for some of the most experienced professionals in the industry.
 
-As Palmer Francis, Head of Growth at Keller Williams in Del Mar and Carmel Valley, points out, **Keller Williams has a well-balanced mix of both new agents and tenured professionals, including nationwide mega teams.** These mega teams are proof that seasoned agents can thrive within Keller Williams' supportive environment, using the tools and systems provided to grow their businesses on a large scale.
+As Palmer Francis, Head of Growth at Keller Williams in Del Mar and Carmel Valley, points out, **Keller Williams has a well-balanced mix of both new agents and tenured professionals, including nationwide mega teams.** These mega teams are proof that seasoned agents can thrive within Keller Williams’ supportive environment, using the tools and systems provided to grow their businesses on a large scale.
 
 {% include pullquote.html %}
 
-Whether you're new to the industry or running a successful team, there’s a place for you at Keller Williams. If you have any questions, feel free to contact us by calling 858-345-9040. We look forward to hearing from you!
+Whether you’re new to the industry or running a successful team, there’s a place for you at Keller Williams. If you have any questions, feel free to contact us by calling 858-345-9040. We look forward to hearing from you!
