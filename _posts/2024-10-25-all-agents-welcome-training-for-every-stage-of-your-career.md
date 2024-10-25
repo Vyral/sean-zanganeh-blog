@@ -7,7 +7,7 @@ tags:
   - Real Estate Tips
 excerpt: Explore essential training programs for both new and experienced agents.
 enclosure: Explore essential training programs for both new and experienced agents.
-pullquote: 'Investing in your education is crucial for long-term success in real estate. '
+pullquote: 'Investing in your training is crucial for long-term success in real estate. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -26,4 +26,4 @@ Are you ready to enhance your skills and gain a competitive edge in the real est
 
 **2\. For experienced agents: Top masterminds.** If you’re a seasoned agent looking to take your business to the next level, the top masterminds class is perfect for you. These sessions gather the top 10% to 20% of agents to share their best practices and innovative strategies. By participating, you’ll gain insights into what successful agents are doing in today’s market, allowing you to implement these techniques into your practice.
 
-Investing in your education is crucial for long-term success in real estate. Whether you’re a new agent seeking foundational training or an experienced professional wanting to learn from the best, these classes will equip you with the skills needed to excel. Don’t miss this opportunity to elevate your career! Contact me at \*\* \*\* [**(858) 461-9665**](tel:8584619665) or via email at [sean@mysddreamhome.com](mailto:sean@mysddreamhome.com).
+Investing in your education is crucial for long-term success in real estate. Whether you’re a new agent seeking foundational training or an experienced professional wanting to learn from the best, these classes will equip you with the skills needed to excel. Don’t miss this opportunity to elevate your career! Contact me at [**(858) 461-9665**](tel:8584619665) or via email at [sean@mysddreamhome.com](mailto:sean@mysddreamhome.com).
