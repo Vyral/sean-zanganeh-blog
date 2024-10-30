@@ -11,7 +11,7 @@ pullquote: 'Investing in your training is crucial for long-term success in real 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2.jpg
+youtube_alternate_image: /uploads/sean-zanganeh-1030-youtube.jpg
 youtube_code: VGq3Jmx5pFU
 ---
 {% include youtube.html %}
