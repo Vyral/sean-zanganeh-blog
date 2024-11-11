@@ -28,4 +28,4 @@ Buying a home in San Diego before you turn 30 might sound like an impossible dre
 
 **3\. Multi-family properties.** The third option is to buy a multi-family property, like a duplex or triplex, where you can live in one unit and rent out the others. Buyers may find this strategy beneficial for covering mortgage payments while also building equity.
 
-If you’re a young buyer ready to make your first step into San Diego real estate, these options could be your ticket to achieving homeownership. To learn more or to get started, reach out at **\+1 858-461-9665** or email [sean@mysddreamhome.com](mailto:sean@mysddreamhome.com). Let's make your homeownership dreams a reality!
+If you’re a young buyer ready to make your first step into San Diego real estate, these options could be your ticket to achieving homeownership. To learn more or to get started, reach out at **\+1 858-461-9665** or email [sean@mysddreamhome.com](mailto:sean@mysddreamhome.com). Let’s make your homeownership dreams a reality!
