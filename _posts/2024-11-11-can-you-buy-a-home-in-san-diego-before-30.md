@@ -5,7 +5,9 @@ date: 2024-11-11 07:00:00
 tags:
   - Real Estate
   - San Diego
-excerpt: Learn how low-down loans and house-hacking are helping young buyers today.
+excerpt: >-
+  Learn how low down payment loans and house-hacking are helping young buyers
+  today.
 enclosure:
 pullquote: Many young buyers are breaking into the market by getting creative.
 enclosure_type: video/mp4
@@ -24,7 +26,7 @@ Buying a home in San Diego before you turn 30 might sound like an impossible dre
 
 {% include pullquote.html %}
 
-**2\. House hacking.** Another popular method is house hacking. If you’ve got a friend who also wants to invest, you can buy a property together, and each of you can live in one of the rooms while renting out any extra rooms. This approach allows you to split the costs and have someone help pay down the mortgage.
+**2\. House-hacking.** Another popular method is house hacking. If you’ve got a friend who also wants to invest, you can buy a property together, and each of you can live in one of the rooms while renting out any extra rooms. This approach allows you to split the costs and have someone help pay down the mortgage.
 
 **3\. Multi-family properties.** The third option is to buy a multi-family property, like a duplex or triplex, where you can live in one unit and rent out the others. Buyers may find this strategy beneficial for covering mortgage payments while also building equity.
 
