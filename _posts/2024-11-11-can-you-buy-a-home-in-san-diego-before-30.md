@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can You Buy a Home in San Diego Before 30?
+title: 'Homeownership Under 30: San Diego Home-Buying Hacks Young Adults Need To Know'
 date: 2024-11-11 07:00:00
 tags:
   - Real Estate
