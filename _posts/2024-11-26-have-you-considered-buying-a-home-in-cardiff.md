@@ -24,6 +24,6 @@ Imagine waking up to breathtaking ocean views, walking down charming streets to 
 
 {% include pullquote.html %}
 
-What makes Cardiff even more special is its walkability. Whether you're strolling to Seaside Market, exploring a variety of restaurants and bars, or enjoying boutique shopping, everything is just a short walk away. Its proximity to the beach adds even more appeal, offering easy access to stunning coastlines just minutes from home.
+What makes Cardiff even more special is its walkability. Whether you’re strolling to Seaside Market, exploring a variety of restaurants and bars, or enjoying boutique shopping, everything is just a short walk away. Its proximity to the beach adds even more appeal, offering easy access to stunning coastlines just minutes from home.
 
-Living in Cardiff combines convenience, natural beauty, and vibrant community life. If you're considering buying real estate in this incredible neighborhood, reach out today to discover how Cardiff can become your new home. Contact me at **\+1 858-461-9665** or email [**sean@mysddreamhome.com**](mailto:sean@mysddreamhome.com). Let's make your homeownership dreams a reality!
+Living in Cardiff combines convenience, natural beauty, and vibrant community life. If you’re considering buying real estate in this incredible neighborhood, reach out today to discover how Cardiff can become your new home. Contact me at **\+1 858-461-9665** or email [**sean@mysddreamhome.com**](mailto:sean@mysddreamhome.com). Let’s make your homeownership dreams a reality!
