@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Spot Homes That May Not Be Worth It in San Diego
+title: How To Spot Homes Not Worth Buying in San Diego
 date: 2025-01-07 00:00:00
 tags:
   - Buyer Tips
