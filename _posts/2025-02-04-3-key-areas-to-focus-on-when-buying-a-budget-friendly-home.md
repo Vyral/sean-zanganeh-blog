@@ -5,7 +5,9 @@ date: 2025-02-04 00:00:00
 tags:
   - Buyer Tips
   - Home Buyer Tips
-excerpt: Learn how to assess a home’s exterior and HVAC to avoid costly repairs.
+excerpt: >-
+  Learn how to assess a home’s interior, exterior, and HVAC systems to avoid
+  costly repairs.
 enclosure:
 pullquote: Buying a home on a budget is about prioritizing what matters most.
 enclosure_type: video/mp4
